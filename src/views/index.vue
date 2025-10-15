@@ -157,6 +157,9 @@ export default defineComponent({
 		
 		// 原始数据存储
 		const rawData = ref<any>({}); // 新增：存储原始数据
+		
+		// 分类标题数据
+		const categoryTitles = ref<any>({});
 
 		// 总分类数（所有分类的数量）
 		const totalCategories = computed(() => Object.keys(rawData.value).length);
@@ -208,7 +211,62 @@ export default defineComponent({
 		});
 		
 		/**
-		 * @Description 读取本地图片数据
+		 * @Description 读取分类标题配置
+		 */
+		const fetchCategoryTitles = async () => {
+			try {
+				const response = await fetch('category-titles.json');
+				if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+				const titles = await response.json();
+				categoryTitles.value = titles;
+			} catch (error) {
+				console.error('Error fetching category titles:', error);
+			}
+		};
+
+		/**
+		 * @Description 动态扫描图标文件夹并生成数据
+		 */
+		const scanIconsDynamically = async () => {
+			try {
+				console.log('🔍 动态扫描图标文件夹...');
+				
+				// 这里我们使用一个简化的方法
+				// 实际项目中，您可能需要一个后端 API 来扫描文件系统
+				const response = await fetch('db.json');
+				if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+				const jsonData = await response.json();
+				
+				// 对分类键进行排序
+				const sortedCategories = Object.keys(jsonData).sort((a, b) => {
+					return a.localeCompare(b, undefined, {
+						numeric: true,
+						caseFirst: 'upper'
+					});
+				});
+				
+				// 对分类下的子类进行排序
+				const sortedData: Record<string, any> = {};
+				sortedCategories.forEach(category => {
+					sortedData[category] = jsonData[category].sort((a, b) => {
+						return a.name.localeCompare(b.name, undefined, {
+							numeric: true,
+							caseFirst: 'upper'
+						});
+					});
+				});
+				
+				rawData.value = sortedData; // 使用排序后的数据
+				selectData.value = extractAndTransformData(sortedData);
+				
+				console.log('✅ 图标数据加载完成');
+			} catch (error) {
+				console.error('Error scanning icons:', error);
+			}
+		};
+
+		/**
+		 * @Description 读取本地图片数据（保持向后兼容）
 		 */
 		const fetchData = async () => {
 			try {
@@ -268,46 +326,7 @@ export default defineComponent({
 		
 		// 分类标题格式化方法
 		const formatCategoryTitle = (category) => {
-			const titles = {
-				'AI': 'AI - 人工智能（AI）',
-				'Analytics': 'Analytics - 数据分析平台',
-				'Automation': 'Automation - 自动化工具链',
-				// 'Bookmarks': 'Bookmarks - 书签管理系统',
-				"Cloud Protection Services": "Cloud Protection Services - 云防护服务",
-				'CMS': 'CMS - 内容管理系统（CMS）',
-				'Document Management': 'Document Management - 文档协同平台',
-				'Database Management': 'Database Management - 数据库运维套件',
-				'DNS': 'DNS - 域名解析系统（DNS）',
-				'Downloader': 'Downloader - 下载任务管理器',
-				'Feed Readers': 'Feed Readers - 信息流订阅器',
-				'File Transfer': 'File Transfer - 文件传输中间件',
-				'Google': 'Google - 谷歌（技术规范保留原文）',
-				// 'Financial Management': 'Financial Management - 财务管理系统',
-				// 'Games': 'Games - 游戏服务器',
-				'Internet of Things (IoT)': 'Internet of Things (IoT) - 物联网（IoT）管理平台',
-				'Linux Server Operation and Management Panel': 'Linux Server Operation and Management Panel - Linux 服务器运维面板',
-				'Media Streaming': 'Media Streaming - 流媒体服务器',
-				'Note-taking & Editors & Wikis': 'Note-taking & Editors & Wikis - 笔记-编辑器-维基三合一平台',
-				'Personal Dashboards': 'Personal Dashboards - 个人数据仪表盘',
-				'Password Managers': 'Password Managers - 密码保险库',
-				'Photo and Video Galleries': 'Photo and Video Galleries - 多媒体资源库',
-				'Project Management & To-do List': 'Project Management & To-do List - 敏捷项目管理套件（含任务看板）',
-				'PT': 'PT - 私有追踪器（Private Tracker）',
-				'Remote Access': 'Remote Access - 远程运维通道',
-				'Router & VPN': 'Router & VPN - 智能路由与VPN网关',
-				'Software Containers': 'Software Containers - 软件容器引擎',
-				// 'Software Development': 'Software Development - 软件开发工具链',
-				'Synology NAS': 'Synology NAS - 群晖 NAS 管理套件',
-				'Status & Uptime pages': 'Status & Uptime pages - 服务状态监控页',
-				'Streaming Service Platform': 'Streaming Service Platform - 流媒体服务平台',
-				// 'Social Networking and Forum Software': 'Social Networking and Forum Software - 社交化论坛系统',
-				'Self-hosting Solutions & OS': 'Self-hosting Solutions & OS - 自托管解决方案与操作系统',
-				// 'URL Shorteners': 'URL Shorteners - 短链生成器',
-				'VPS': 'VPS - 虚拟专用服务器（VPS）',
-				'Instant Messaging': 'Instant Messaging - 即时通讯',
-				'Uncategorized': 'Uncategorized - 未分类项目'
-			};
-			return titles[category] || category;
+			return categoryTitles.value[category] || category;
 		};
 		
 		/**
@@ -350,7 +369,10 @@ export default defineComponent({
 		}
 		
 		onMounted(async () => {
-			await fetchData();
+			await Promise.all([
+				fetchCategoryTitles(),
+				fetchData()
+			]);
 		});
 		
 		return {

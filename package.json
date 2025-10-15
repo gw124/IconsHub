@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "scan-icons": "node scripts/scan-icons.js",
+    "dev": "npm run scan-icons && npm run serve",
+    "watch": "node scripts/simple-watch.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
@@ -21,6 +24,7 @@
     "@vue/cli-plugin-typescript": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "chokidar": "^4.0.3",
     "sass": "^1.32.7",
     "sass-loader": "^12.0.0",
     "typescript": "~4.5.5"

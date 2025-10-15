@@ -1,5 +1,5 @@
 {
-  "AI":  [
+  "AI": [
     {
       "name": "ChatBot UI",
       "type": "png",
@@ -61,7 +61,6 @@
       "course": ""
     }
   ],
-
   "Analytics": [
     {
       "name": "GoAccess",
@@ -109,15 +108,9 @@
       "course": ""
     }
   ],
-
   "Automation": [
     {
       "name": "Jackett",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "n8n",
       "type": "png",
       "course": ""
     },
@@ -145,17 +138,13 @@
       "name": "Sonarr",
       "type": "png",
       "course": ""
-    }
-  ],
-
-  "Cloud Protection Services": [
+    },
     {
-      "name": "Cloudflare",
+      "name": "n8n",
       "type": "png",
       "course": ""
     }
   ],
-
   "CMS": [
     {
       "name": "Halo_A",
@@ -233,7 +222,60 @@
       "course": ""
     }
   ],
-
+  "Cloud Protection Services": [
+    {
+      "name": "Cloudflare",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "DNS": [
+    {
+      "name": "AdGuard Home",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Blocky",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CloudDNS_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CloudDNS_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DDNS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lucky",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Maza ad blocking",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Pi-Hole",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Technitium DNS Server",
+      "type": "png",
+      "course": ""
+    }
+  ],
   "Database Management": [
     {
       "name": "InfluxDB_A",
@@ -281,63 +323,14 @@
       "course": ""
     }
   ],
-
-  "DNS": [
-    {
-      "name": "AdGuard Home",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Blocky",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "CloudDNS_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "CloudDNS_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "DDNS",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Lucky",
-      "type": "png",
-      "course": "https://lucky666.cn/"
-    },
-    {
-      "name": "Maza ad blocking",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Pi-Hole",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Technitium DNS Server",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
   "Document Management": [
     {
-      "name": "Calibre",
+      "name": "Calibre Web",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Calibre Web",
+      "name": "Calibre",
       "type": "png",
       "course": ""
     },
@@ -402,7 +395,6 @@
       "course": ""
     }
   ],
-
   "Downloader": [
     {
       "name": "Aria2",
@@ -450,11 +442,6 @@
       "course": ""
     },
     {
-      "name": "qBittorrent",
-      "type": "png",
-      "course": ""
-    },
-    {
       "name": "Transmission",
       "type": "png",
       "course": ""
@@ -463,9 +450,13 @@
       "name": "Vertex",
       "type": "png",
       "course": ""
+    },
+    {
+      "name": "qBittorrent",
+      "type": "png",
+      "course": ""
     }
   ],
-
   "Feed Readers": [
     {
       "name": "CommaFeed",
@@ -488,7 +479,6 @@
       "course": ""
     }
   ],
-
   "File Transfer": [
     {
       "name": "Alist",
@@ -507,6 +497,11 @@
     },
     {
       "name": "Cloudreve",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Docat",
       "type": "png",
       "course": ""
     },
@@ -591,7 +586,6 @@
       "course": ""
     }
   ],
-
   "Google": [
     {
       "name": "Chrome",
@@ -600,11 +594,6 @@
     },
     {
       "name": "Gmail",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Google",
       "type": "png",
       "course": ""
     },
@@ -629,12 +618,16 @@
       "course": ""
     },
     {
+      "name": "Google",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "Translate",
       "type": "png",
       "course": ""
     }
   ],
-
   "Instant Messaging": [
     {
       "name": "Telegram_A",
@@ -647,7 +640,6 @@
       "course": ""
     }
   ],
-
   "Internet of Things (IoT)": [
     {
       "name": "Gladys Assistant",
@@ -685,15 +677,9 @@
       "course": ""
     }
   ],
-
   "Linux Server Operation and Management Panel": [
     {
       "name": "1Panel",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "aapanel",
       "type": "png",
       "course": ""
     },
@@ -726,17 +712,21 @@
       "name": "SafeLine",
       "type": "png",
       "course": ""
-    }
-  ],
-
-  "Media Streaming": [
+    },
     {
-      "name": "Ampache",
+      "name": "Tissue_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "audiobookshelf",
+      "name": "aapanel",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Media Streaming": [
+    {
+      "name": "Ampache",
       "type": "png",
       "course": ""
     },
@@ -796,16 +786,6 @@
       "course": ""
     },
     {
-      "name": "koel",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "lms",
-      "type": "png",
-      "course": ""
-    },
-    {
       "name": "MDC-NG",
       "type": "png",
       "course": ""
@@ -857,11 +837,6 @@
     },
     {
       "name": "Plex",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "polaris",
       "type": "png",
       "course": ""
     },
@@ -946,11 +921,6 @@
       "course": ""
     },
     {
-      "name": "swingmusic",
-      "type": "png",
-      "course": ""
-    },
-    {
       "name": "Symedia_1_1",
       "type": "png",
       "course": ""
@@ -986,7 +956,7 @@
       "course": ""
     },
     {
-      "name": "Symedia_4_1",
+      "name": "Symedia_4_2",
       "type": "png",
       "course": ""
     },
@@ -1116,11 +1086,6 @@
       "course": ""
     },
     {
-      "name": "Tissue_A",
-      "type": "png",
-      "course": ""
-    },
-    {
       "name": "TMDB_A",
       "type": "png",
       "course": ""
@@ -1141,6 +1106,11 @@
       "course": ""
     },
     {
+      "name": "Tissue_A",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "Yesplaymusic_A",
       "type": "png",
       "course": ""
@@ -1149,9 +1119,33 @@
       "name": "Yesplaymusic_B",
       "type": "png",
       "course": ""
+    },
+    {
+      "name": "audiobookshelf",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "koel",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "lms",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "polaris",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "swingmusic",
+      "type": "png",
+      "course": ""
     }
   ],
-
   "Note-taking & Editors & Wikis": [
     {
       "name": "Affine",
@@ -1264,7 +1258,245 @@
       "course": ""
     }
   ],
-
+  "PT": [
+    {
+      "name": "0ff",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "52pt",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Audiences",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "BTSchool",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CHDBits",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Carpt",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CyanBug",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "FRDS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HDArea",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HDChina",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HDHome",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HDTime",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HDsky",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HHCLUB",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HaiDan",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ICC2022",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "M-Team",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nicept",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "OurBits",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PTHome",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PTTime",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Piggo",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PtCafe",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Pter",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Rousi",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SSD",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "TTG",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "U2",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "YemaPT",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "agsvpt",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "dajiao",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "dicmusic",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ecustpt",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "fsm_me",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "hddolby",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "hdkyl",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "leaves",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "lemonhd",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "qingwa",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "tjupt",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ubits",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ultrahd",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "xingtan",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "zhuque",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "zmpt",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Password Managers": [
+    {
+      "name": "Bitwarden",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Vaultwarden",
+      "type": "png",
+      "course": ""
+    }
+  ],
   "Personal Dashboards": [
     {
       "name": "Dashy",
@@ -1322,20 +1554,6 @@
       "course": ""
     }
   ],
-
-  "Password Managers": [
-    {
-      "name": "Bitwarden",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Vaultwarden",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
   "Photo and Video Galleries": [
     {
       "name": "Immich_A",
@@ -1382,7 +1600,6 @@
       "type": "png",
       "course": ""
     },
-
     {
       "name": "PhotoPrism",
       "type": "png",
@@ -1399,20 +1616,9 @@
       "course": ""
     }
   ],
-
   "Project Management & To-do List": [
     {
       "name": "Dootask",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Gitea",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Gitee",
       "type": "png",
       "course": ""
     },
@@ -1438,6 +1644,16 @@
     },
     {
       "name": "GitLab",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Gitea",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Gitee",
       "type": "png",
       "course": ""
     },
@@ -1477,235 +1693,6 @@
       "course": ""
     }
   ],
-
-  "PT": [
-    {
-      "name": "0ff",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "52pt",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "agsvpt",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Audiences",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "BTSchool",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Carpt",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "CHDBits",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "CyanBug",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "dajiao",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "dicmusic",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "ecustpt",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "FRDS",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "fsm_me",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "HaiDan",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "HDArea",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "HDChina",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "hddolby",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "HDHome",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "hdkyl",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "HDsky",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "HDTime",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "HHCLUB",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "ICC2022",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "leaves",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "lemonhd",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "M-Team",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Nicept",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "OurBits",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Piggo",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "PtCafe",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Pter",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "PTHome",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "PTTime",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "qingwa",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Rousi",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "tjupt",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "SSD",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "TTG",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "U2",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "ubits",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "ultrahd",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "xingtan",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "YemaPT",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "zhuque",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "zmpt",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
   "Remote Access": [
     {
       "name": "Remmina",
@@ -1733,7 +1720,6 @@
       "course": ""
     }
   ],
-
   "Router & VPN": [
     {
       "name": "Clash",
@@ -1747,21 +1733,6 @@
     },
     {
       "name": "Headscale",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "iKuai_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "iKuai_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "iKuai_C",
       "type": "png",
       "course": ""
     },
@@ -1821,11 +1792,6 @@
       "course": ""
     },
     {
-      "name": "yacd",
-      "type": "png",
-      "course": ""
-    },
-    {
       "name": "Zashboard",
       "type": "png",
       "course": ""
@@ -1834,9 +1800,28 @@
       "name": "Zerotier",
       "type": "png",
       "course": ""
+    },
+    {
+      "name": "iKuai_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iKuai_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iKuai_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "yacd",
+      "type": "png",
+      "course": ""
     }
   ],
-
   "Self-hosting Solutions & OS": [
     {
       "name": "CasaOS",
@@ -1874,12 +1859,12 @@
       "course": ""
     },
     {
-      "name": "iStoreOS",
+      "name": "Linux",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Linux",
+      "name": "QTS",
       "type": "png",
       "course": ""
     },
@@ -1949,16 +1934,6 @@
       "course": ""
     },
     {
-      "name": "macOS",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "QTS",
-      "type": "png",
-      "course": ""
-    },
-    {
       "name": "Windows",
       "type": "png",
       "course": ""
@@ -1982,9 +1957,60 @@
       "name": "Zspace",
       "type": "png",
       "course": ""
+    },
+    {
+      "name": "iStoreOS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "macOS",
+      "type": "png",
+      "course": ""
     }
   ],
-
+  "Software Containers": [
+    {
+      "name": "Docker",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Dockge",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Portainer",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Watchtower",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "What's up Docker_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "What's up Docker_B",
+      "type": "png",
+      "course": ""
+    }
+  ],
   "Status & Uptime pages": [
     {
       "name": "Cstate",
@@ -2022,47 +2048,6 @@
       "course": ""
     }
   ],
-
-  "Software Containers": [
-    {
-      "name": "Docker",
-      "type": "png",
-      "course": ""
-    },{
-      "name": "DockerCopilot_A",
-      "type": "png",
-      "course": ""
-    },{
-      "name": "DockerCopilot_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Dockge",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Portainer",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Watchtower",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "What's up Docker_A",
-      "type": "png",
-      "course": ""
-    },{
-      "name": "What's up Docker_B",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
   "Streaming Service Platform": [
     {
       "name": "Bilibili",
@@ -2071,11 +2056,6 @@
     },
     {
       "name": "Disney+",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "iQIYI",
       "type": "png",
       "course": ""
     },
@@ -2108,9 +2088,13 @@
       "name": "Youtube",
       "type": "png",
       "course": ""
+    },
+    {
+      "name": "iQIYI",
+      "type": "png",
+      "course": ""
     }
   ],
-
   "Synology NAS": [
     {
       "name": "Active Backup for Business",
@@ -2128,22 +2112,22 @@
       "course": ""
     },
     {
-      "name": "Download",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Drive",
-      "type": "png",
-      "course": ""
-    },
-    {
       "name": "DS Cam",
       "type": "png",
       "course": ""
     },
     {
       "name": "DS Note",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Download",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Drive",
       "type": "png",
       "course": ""
     },
@@ -2183,13 +2167,7 @@
       "course": ""
     }
   ],
-
   "Uncategorized": [
-    {
-      "name": "3x-ui",
-      "type": "png",
-      "course": ""
-    },
     {
       "name": "115_A",
       "type": "png",
@@ -2201,12 +2179,7 @@
       "course": ""
     },
     {
-      "name": "hdhive_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "hdhive_B",
+      "name": "3x-ui",
       "type": "png",
       "course": ""
     },
@@ -2239,10 +2212,24 @@
       "name": "Speedtest_D",
       "type": "png",
       "course": ""
+    },
+    {
+      "name": "hdhive_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "hdhive_B",
+      "type": "png",
+      "course": ""
     }
   ],
-
   "VPS": [
+    {
+      "name": "AWS",
+      "type": "png",
+      "course": ""
+    },
     {
       "name": "Akamai",
       "type": "png",
@@ -2250,11 +2237,6 @@
     },
     {
       "name": "Aliyun",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "AWS",
       "type": "png",
       "course": ""
     },
@@ -2291,20 +2273,15 @@
     {
       "name": "HetZner_A",
       "type": "png",
-      "course": "https://www.hetzner.com"
+      "course": ""
     },
     {
       "name": "HetZner_B",
       "type": "png",
-      "course": "https://www.hetzner.com"
-    },
-    {
-      "name": "Huawei Cloud",
-      "type": "png",
       "course": ""
     },
     {
-      "name": "iON",
+      "name": "Huawei Cloud",
       "type": "png",
       "course": ""
     },
@@ -2324,17 +2301,17 @@
       "course": ""
     },
     {
+      "name": "OVH",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "Oracle_A",
       "type": "png",
       "course": ""
     },
     {
       "name": "Oracle_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "OVH",
       "type": "png",
       "course": ""
     },
@@ -2375,6 +2352,23 @@
     },
     {
       "name": "YxVM",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iON",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "test": [
+    {
+      "name": "HetZner_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "UCloud",
       "type": "png",
       "course": ""
     }
