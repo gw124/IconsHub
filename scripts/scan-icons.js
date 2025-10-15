@@ -7,16 +7,32 @@ const path = require('path');
 function scanIcons() {
     const iconDir = path.join(__dirname, '../public/icon');
     const outputFile = path.join(__dirname, '../public/db.json');
+    const categoryTitlesFile = path.join(__dirname, '../public/category-titles.json');
     
     console.log('🔍 开始扫描图标文件夹...');
     
     try {
+        // 读取分类标题配置文件，获取排序顺序
+        let categoryOrder = [];
+        try {
+            const categoryTitles = JSON.parse(fs.readFileSync(categoryTitlesFile, 'utf8'));
+            categoryOrder = Object.keys(categoryTitles);
+            console.log('📋 使用 category-titles.json 中的分类顺序');
+        } catch (error) {
+            console.log('⚠️ 无法读取 category-titles.json，使用字母顺序');
+        }
+        
         // 读取所有分类文件夹
-        const categories = fs.readdirSync(iconDir, { withFileTypes: true })
+        const allCategories = fs.readdirSync(iconDir, { withFileTypes: true })
             .filter(dirent => dirent.isDirectory())
             .map(dirent => dirent.name)
-            .filter(name => !name.startsWith('.')) // 过滤隐藏文件夹
-            .sort(); // 按字母顺序排序
+            .filter(name => !name.startsWith('.')); // 过滤隐藏文件夹
+        
+        // 按照 category-titles.json 的顺序排列，未定义的分类放在最后
+        const categories = categoryOrder.length > 0 
+            ? [...categoryOrder.filter(cat => allCategories.includes(cat)), 
+               ...allCategories.filter(cat => !categoryOrder.includes(cat)).sort()]
+            : allCategories.sort(); // 如果没有配置文件，使用字母顺序
         
         console.log(`📁 发现 ${categories.length} 个分类文件夹:`, categories);
         

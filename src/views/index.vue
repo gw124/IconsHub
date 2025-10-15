@@ -5,9 +5,9 @@
 		
 		<!-- 头部 -->
 		<div class="icon-head">
-			<h1 class="icon-head_title">Icon 图标库</h1>
+			<h1 class="icon-head_title">{{ appConfig.site.title }}</h1>
 			<h4 class="icon-head_txt">
-				提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途
+				{{ appConfig.site.description }}
 			</h4>
 			<div class="icon-head_stats">
 				共 {{ totalCategories }} 个分类 · {{ totalIcons }} 个图标
@@ -127,7 +127,10 @@
 		
 		<!-- 页脚 -->
 		<footer class="footer">
-			<div class="footer-line">© 2020 <a href="https://gw124.top/" target="_blank" rel="noopener noreferrer" class="link-green">ICONS.GW124.TOP</a></div>
+			<div class="footer-divider"></div>
+			<div class="footer-line">
+				Copyright © {{ copyrightYear }} <a :href="appConfig.footer.websiteUrl" target="_blank" rel="noopener noreferrer">{{ appConfig.footer.websiteText }}</a> • Powered by <a href="https://github.com/GWen124/IconsHub" target="_blank" rel="noopener noreferrer">Wen</a>
+			</div>
 		</footer>
 	
 	</div>
@@ -137,11 +140,26 @@
 import { defineComponent, ref, reactive, onMounted, computed } from "vue";
 import { ElMessage } from "element-plus";
 import clipboard3 from "vue-clipboard3";
+import { loadConfig, type AppConfig } from "../utils/configLoader";
+import { formatCopyrightYear, type CopyrightConfig } from "../utils/copyright";
 
 export default defineComponent({
 	setup() {
 		const {toClipboard} = clipboard3();
 		const cdnValue = ref(true);
+		
+		// 应用配置
+		const appConfig = ref<AppConfig>({
+			site: { title: "IconsHub", description: "提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途" },
+			deployment: { branch: "Web", domain: "icons.gw124.top" },
+			copyright: { startDate: "2025-01-01", autoRange: true },
+			footer: { websiteText: "ICONS.GW124.TOP", websiteUrl: "https://icons.gw124.top", authorText: "Wen", authorUrl: "https://github.com/GWen124" }
+		});
+		
+		// 版权年份
+		const copyrightYear = computed(() => {
+			return formatCopyrightYear(appConfig.value.copyright);
+		});
 		// 搜索数据
 		const data = reactive({
 			search: "", // 搜索框的值
@@ -369,6 +387,16 @@ export default defineComponent({
 		}
 		
 		onMounted(async () => {
+			// 加载配置
+			console.log('🔄 开始加载配置...');
+			try {
+				appConfig.value = await loadConfig();
+				console.log('✅ 配置加载完成:', appConfig.value);
+				console.log('📋 当前标题:', appConfig.value.site.title);
+			} catch (error) {
+				console.error('❌ 配置加载失败:', error);
+			}
+			
 			await Promise.all([
 				fetchCategoryTitles(),
 				fetchData()
@@ -379,6 +407,8 @@ export default defineComponent({
 			data,
 			selectData,
 			cdnValue,
+			appConfig,
+			copyrightYear,
 			totalCategories,
 			totalIcons,
 			currentIcons,
@@ -443,28 +473,56 @@ html, body {
 	// 头部
 	.icon-head {
 		position: relative;
-		padding: 2rem 1.5rem;
-		background: linear-gradient(135deg, $primary-color, $secondary-color);
-		//background: linear-gradient(135deg, $primary-1-color, $secondary-2-color);
-		//background-color: $dark-bg;
-		color: white;
-		//box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-		//border-bottom: 1px solid $dark-txt;
+		padding: 3rem 2rem 2.5rem;
+		background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+		color: #1e293b;
+		border-radius: 0 0 24px 24px;
+		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+		margin-bottom: 2rem;
+		border: 1px solid #e2e8f0;
+		position: relative;
+		overflow: hidden;
+		
+		&::before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			height: 1px;
+			background: linear-gradient(90deg, transparent 0%, #e2e8f0 50%, transparent 100%);
+		}
+		
+		&::after {
+			content: '';
+			position: absolute;
+			bottom: 0;
+			left: 50%;
+			transform: translateX(-50%);
+			width: 60px;
+			height: 4px;
+			background: linear-gradient(90deg, #6366f1, #8b5cf6);
+			border-radius: 2px;
+		}
 		
 		&_title {
-			font-size: 2.5rem;
+			font-size: 64px;
 			font-weight: 700;
-			margin-bottom: 1rem;
+			margin-bottom: 0.8rem;
 			text-align: center;
+			color: #1e293b;
+			letter-spacing: -0.02em;
 		}
 		
 		&_txt {
-			font-size: 1rem;
-			opacity: 0.9;
-			max-width: 800px;
+			font-size: 1.1rem;
+			opacity: 0.8;
+			max-width: 600px;
 			margin: 0 auto;
-			//margin: 0 auto 1rem;
 			text-align: center;
+			line-height: 1.6;
+			font-weight: 400;
+			color: #64748b;
 		}
 		
 		&_switch {
@@ -483,15 +541,16 @@ html, body {
 		
 		&_stats {
 			text-align: center;
-			font-size: 0.9rem;
-			color: rgba(255, 255, 255, 0.8);
+			font-size: 1rem;
+			color: #64748b;
 			margin-bottom: 1rem;
+			font-weight: 500;
 			
 			span {
 				display: inline-block;
 				margin-left: 0.5rem;
 				padding-left: 0.5rem;
-				border-left: 1px solid rgba(255, 255, 255, 0.3);
+				border-left: 1px solid #cbd5e1;
 			}
 			
 			@media (max-width: 768px) {
@@ -755,9 +814,10 @@ html, body {
 					width: calc(33% - 10px);
 				}
 				
-				&_txt {
-					font-size: 0.8rem;
-				}
+			&_txt {
+				font-size: 0.9rem;
+				line-height: 1.4;
+			}
 			}
 		}
 	}
@@ -773,84 +833,80 @@ html, body {
 	}
 }
 
-// Footer 样式（纯文字样式）
+/* 页脚样式 */
 .footer {
-    margin-top: auto;
-    padding: 1.5rem;
-    text-align: center;
-    background: rgba($--g6, 0.8);
-    backdrop-filter: blur(5px);
-    border-top: 1px solid $--g5;
-    z-index: 10;
+  text-align: center;
+  padding: 24px 24px 20px 24px;
+  margin-top: 32px;
+  color: #000000;
+  font-size: 0.85rem;
+}
 
-    // 字体与排版
-    font-family: -apple-system, BlinkMacSystemFont, "SF Pro SC", "PingFang SC", "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans SC", "Microsoft YaHei", Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-weight: 500;
-    letter-spacing: 0.2px;
+/* 页脚分割线 - 两端渐变样式 */
+.footer-divider {
+  position: relative;
+  padding: 20px 0;
+}
 
-    .footer-line {
-        color: #94a3b8;
-        font-size: 0.9rem;
-        margin: 0;
-        letter-spacing: 0.5px;
-        line-height: 1.5;
-        font-feature-settings: "liga", "kern";
-        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-    }
+.footer-divider::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 85%;
+  height: 1px;
+  background: linear-gradient(to right, transparent 0%, #e5e5e5 20%, #e5e5e5 80%, transparent 100%);
+}
 
-    .link-green {
-        color: #94a3b8;
-        text-decoration: none;
-        transition: color 0.2s ease;
-        font-weight: 600;
-        text-underline-offset: 2px;
-        position: relative;
+/* 页脚链接基础样式 */
+.footer a {
+  color: inherit;
+  text-decoration: none;
+  position: relative;
+  transition: color 0.2s ease;
+  font-weight: 600;
+}
 
-        &::after {
-            content: "";
-            position: absolute;
-            left: 0;
-            right: 0;
-            bottom: -2px;
-            height: 2px;
-            background-color: currentColor;
-            transform: scaleX(0);
-            transform-origin: center;
-            transition: transform 0.25s ease;
-            border-radius: 2px;
-        }
+/* 下划线动画效果 */
+.footer a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  width: 0;
+  height: 1px;
+  background-color: currentColor;
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
 
-        &:hover {
-            color: #94a3b8;
-            &::after { transform: scaleX(1); }
-        }
+/* 悬停时下划线扩张 */
+.footer a:hover::after {
+  width: 100%;
+}
 
-        &:visited { color: #94a3b8; }
-    }
+/* 深色模式下的页脚 */
+.dark-mode .footer {
+  color: #ffffff;
+}
 
-    .footer-line .link-green:first-of-type {
-        color: #94a3b8;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 0.4px;
-    }
-    .footer-line .link-green:first-of-type:hover { color: #94a3b8; }
+/* 深色模式下的分割线 */
+.dark-mode .footer-divider::before {
+  background: linear-gradient(to right, transparent 0%, #404040 20%, #404040 80%, transparent 100%);
+}
 
-    .footer-line .link-green:last-of-type {
-        color: #94a3b8;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 0.4px;
-    }
-    .footer-line .link-green:last-of-type:hover { color: #94a3b8; }
+/* 响应式分割线 */
+@media (max-width: 768px) {
+  .footer-divider::before {
+    width: 90%;
+  }
+}
 
-    // 交互过渡（保持之前的hover效果）
-    transition: all 0.3s ease;
-    &:hover {
-        background: rgba($--g6, 0.9);
-    }
+@media (max-width: 480px) {
+  .footer-divider::before {
+    width: 95%;
+  }
 }
 
 // 响应式断点处理
@@ -858,7 +914,7 @@ html, body {
 	.icon-wrapper {
 		.icon-head {
 			&_title {
-				font-size: 2rem;
+				font-size: 48px;
 			}
 			
 			//&_txt {
@@ -898,13 +954,13 @@ html, body {
 			padding: 1.5rem 1rem;
 			
 			&_title {
-				font-size: 1.5rem;
+				font-size: 36px;
 			}
 			
 			&_txt {
-				font-size: 0.9rem;
+				font-size: 1rem;
 				margin: 0 auto;
-				//margin: 0 auto 0.5rem;
+				line-height: 1.5;
 			}
 			
 			&_switch {

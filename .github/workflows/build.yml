@@ -2,6 +2,20 @@ name: CI Deploy to GitHub Pages
 
 on:
   workflow_dispatch:
+    inputs:
+      custom_domain:
+        description: '自定义域名 (可选，留空使用配置文件中的域名)'
+        required: false
+        type: string
+      custom_branch:
+        description: '部署分支 (可选，留空使用配置文件中的分支)'
+        required: false
+        type: string
+        default: 'Web'
+      custom_commit_message:
+        description: '提交信息 (可选，留空使用配置文件中的信息)'
+        required: false
+        type: string
   push:
     branches:
       - main
@@ -21,6 +35,49 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Load configuration
+        id: config
+        run: |
+          echo "Loading configuration from config.yml..."
+          if [ -f config.yml ]; then
+            echo "Configuration file found"
+            # 使用 Node.js 读取配置
+            node -e "
+              const fs = require('fs');
+              const yaml = require('js-yaml');
+              const config = yaml.load(fs.readFileSync('config.yml', 'utf8'));
+              const domain = config.deployment.domain;
+              const branch = config.deployment.branch;
+              console.log('domain=' + domain);
+              console.log('cname=' + domain);
+              console.log('branch=' + branch);
+              console.log('commit_message=🚀 Auto deploy: Update icons and rebuild');
+            " >> $GITHUB_OUTPUT
+          else
+            echo "❌ config.yml not found! Please create the configuration file."
+            exit 1
+          fi
+
+      - name: Set deployment parameters
+        id: deploy_params
+        run: |
+          # 使用手动输入或配置文件的值
+          DOMAIN="${{ github.event.inputs.custom_domain || steps.config.outputs.domain }}"
+          CNAME="${{ github.event.inputs.custom_domain || steps.config.outputs.cname }}"
+          BRANCH="${{ github.event.inputs.custom_branch || steps.config.outputs.branch }}"
+          COMMIT_MSG="${{ github.event.inputs.custom_commit_message || steps.config.outputs.commit_message }}"
+          
+          echo "Final deployment parameters:"
+          echo "Domain: $DOMAIN"
+          echo "CNAME: $CNAME"
+          echo "Branch: $BRANCH"
+          echo "Commit Message: $COMMIT_MSG"
+          
+          echo "deploy_domain=$DOMAIN" >> $GITHUB_OUTPUT
+          echo "deploy_cname=$CNAME" >> $GITHUB_OUTPUT
+          echo "deploy_branch=$BRANCH" >> $GITHUB_OUTPUT
+          echo "deploy_commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
+
       - name: Scan icons
         run: npm run scan-icons
 
@@ -32,7 +89,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          # 添加以下配置，确保部署到 gh-pages 分支
-          publish_branch: Web  # 明确指定分支
-          commit_message: 'Auto deploy from main'
-          cname: icons.gw124.top
+          publish_branch: ${{ steps.deploy_params.outputs.deploy_branch }}
+          commit_message: ${{ steps.deploy_params.outputs.deploy_commit_message }}
+          cname: ${{ steps.deploy_params.outputs.deploy_cname }}
