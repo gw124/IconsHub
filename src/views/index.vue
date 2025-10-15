@@ -255,17 +255,10 @@ export default defineComponent({
 				if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 				const jsonData = await response.json();
 				
-				// 对分类键进行排序
-				const sortedCategories = Object.keys(jsonData).sort((a, b) => {
-					return a.localeCompare(b, undefined, {
-						numeric: true,
-						caseFirst: 'upper'
-					});
-				});
-				
-				// 对分类下的子类进行排序
+				// 保持 db.json 中的原始顺序（已按 category-titles.json 排序）
+				// 只对分类下的图标进行排序
 				const sortedData: Record<string, any> = {};
-				sortedCategories.forEach(category => {
+				Object.keys(jsonData).forEach(category => {
 					sortedData[category] = jsonData[category].sort((a, b) => {
 						return a.name.localeCompare(b.name, undefined, {
 							numeric: true,
@@ -292,17 +285,10 @@ export default defineComponent({
 				if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 				const jsonData = await response.json();
 				
-				// 对分类键进行排序
-				const sortedCategories = Object.keys(jsonData).sort((a, b) => {
-					return a.localeCompare(b, undefined, {
-						numeric: true,
-						caseFirst: 'upper'
-					});
-				});
-				
-				// 对分类下的子类进行排序
+				// 保持 db.json 中的原始顺序（已按 category-titles.json 排序）
+				// 只对分类下的图标进行排序
 				const sortedData: Record<string, any> = {};
-				sortedCategories.forEach(category => {
+				Object.keys(jsonData).forEach(category => {
 					sortedData[category] = jsonData[category].sort((a, b) => {
 						return a.name.localeCompare(b.name, undefined, {
 							numeric: true,
