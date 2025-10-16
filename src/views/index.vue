@@ -313,7 +313,7 @@ export default defineComponent({
 			for (const key in data) {
 				if (data.hasOwnProperty(key)) {
 					extractedData.push({
-						label: formatCategoryTitle(key), // 使用格式化后的标题
+						label: categoryTitles.value[key] || key, // 直接使用 categoryTitles，避免递归调用
 						value: key
 					});
 				}
@@ -383,10 +383,9 @@ export default defineComponent({
 				console.error('❌ 配置加载失败:', error);
 			}
 			
-			await Promise.all([
-				fetchCategoryTitles(),
-				fetchData()
-			]);
+			// 先加载分类标题，再加载数据
+			await fetchCategoryTitles();
+			await fetchData();
 		});
 		
 		return {
