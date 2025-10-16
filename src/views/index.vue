@@ -313,7 +313,7 @@ export default defineComponent({
 			for (const key in data) {
 				if (data.hasOwnProperty(key)) {
 					extractedData.push({
-						label: key,
+						label: formatCategoryTitle(key), // 使用格式化后的标题
 						value: key
 					});
 				}
