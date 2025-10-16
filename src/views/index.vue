@@ -87,7 +87,7 @@
 						v-for="item in items"
 						:key="item.name"
 						class="card_content"
-						@click="copyIconUrl(category + '/' + item.name + (item.type === 'svg' ? '.svg' : '.png'))"
+						@click="copyIconUrl(category + '/' + item.name + (item.ext || (item.type === 'svg' ? '.svg' : '.png')))"
 					>
 						<el-tooltip
 							class="item"
@@ -106,7 +106,7 @@
 							<el-image
 								v-else
 								class="card_img"
-								:src="data.publicPath + 'icon/' + category + '/' + item.name + '.png'"
+								:src="data.publicPath + 'icon/' + category + '/' + item.name + (item.ext || '.png')"
 								lazy
 								fit="contain"
 							/>
@@ -324,8 +324,8 @@ export default defineComponent({
 		/**
 		 * @Description 文图标显示文字提示
 		 */
-		function getItemContent(item: { name: any; type: string; }) {
-			return `${item.name}${item.type === 'svg' ? '.svg' : '.png'}`;
+		function getItemContent(item: { name: any; type: string; ext?: string; }) {
+			return `${item.name}${item.ext || (item.type === 'svg' ? '.svg' : '.png')}`;
 		}
 		
 		// 分类标题格式化方法

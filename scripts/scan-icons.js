@@ -53,11 +53,12 @@ function scanIcons() {
                 iconData[category] = files.map(file => {
                     const name = path.parse(file).name;
                     const ext = path.extname(file).toLowerCase();
-                    const type = ext === '.svg' ? 'svg' : 'png';
+                    const type = ext === '.svg' ? 'svg' : ext.substring(1); // 保留原始扩展名
                     
                     return {
                         name: name,
                         type: type,
+                        ext: ext, // 添加原始扩展名
                         course: "" // 默认空链接，可以后续手动添加
                     };
                 });
