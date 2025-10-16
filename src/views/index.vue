@@ -730,11 +730,11 @@ html, body {
 					height: 64px;
 					margin-bottom: 1rem;
 					object-fit: contain;
+					border-radius: 13px;
 					transition: all 0.3s ease;
 					
 					&:hover {
 						transform: translateY(-4px);
-						border-radius: 13px;
 						box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 					}
 				}
