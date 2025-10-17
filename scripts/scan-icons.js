@@ -7,7 +7,7 @@ const path = require('path');
 function scanIcons() {
     const iconDir = path.join(__dirname, '../public/icon');
     const outputFile = path.join(__dirname, '../public/db.json');
-    const categoryTitlesFile = path.join(__dirname, '../public/category-titles.json');
+    const categoryTitlesFile = path.join(__dirname, '../category-titles.json');
     
     console.log('🔍 开始扫描图标文件夹...');
     
@@ -69,6 +69,14 @@ function scanIcons() {
         
         // 写入 JSON 文件
         fs.writeFileSync(outputFile, JSON.stringify(iconData, null, 2), 'utf8');
+        
+        // 复制 category-titles.json 到 public 目录
+        const categoryTitlesSource = path.join(__dirname, '../category-titles.json');
+        const categoryTitlesPublic = path.join(__dirname, '../public/category-titles.json');
+        if (fs.existsSync(categoryTitlesSource)) {
+            fs.copyFileSync(categoryTitlesSource, categoryTitlesPublic);
+            console.log('📋 已同步 category-titles.json 到 public 目录');
+        }
         
         console.log('🎉 图标数据生成完成！');
         console.log(`📊 总计: ${Object.keys(iconData).length} 个分类, ${Object.values(iconData).reduce((total, items) => total + items.length, 0)} 个图标`);
