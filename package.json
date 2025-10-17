@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "npm run scan-icons && vue-cli-service build",
     "scan-icons": "node scripts/scan-icons.js",
     "dev": "npm run scan-icons && npm run serve",
     "watch": "node scripts/simple-watch.js",

@@ -73,7 +73,7 @@
       "course": ""
     }
   ],
-  "Cloud": [
+  "Cloud Hub": [
     {
       "name": "115_A",
       "type": "png",
@@ -257,12 +257,6 @@
   ],
   "App Hub": [
     {
-      "name": "Apple",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
       "name": "Bitwarden",
       "type": "png",
       "ext": ".png",
@@ -276,6 +270,12 @@
     },
     {
       "name": "Docker",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "FinalShell",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -347,6 +347,12 @@
       "course": ""
     },
     {
+      "name": "JingDong",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Safari",
       "type": "jpeg",
       "ext": ".jpeg",
@@ -356,6 +362,12 @@
       "name": "Taobao",
       "type": "jpeg",
       "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "TianMao",
+      "type": "png",
+      "ext": ".png",
       "course": ""
     },
     {
@@ -483,6 +495,12 @@
       "course": ""
     },
     {
+      "name": "H-UI",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Headscale",
       "type": "png",
       "ext": ".png",
@@ -605,6 +623,12 @@
       "course": ""
     },
     {
+      "name": "FanQieNovel",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Jingritoutiao",
       "type": "jpeg",
       "ext": ".jpeg",
@@ -630,6 +654,12 @@
     },
     {
       "name": "QQ Music",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "QiDian",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -672,6 +702,12 @@
     },
     {
       "name": "Youtube",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "ZhiHu",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -2841,7 +2877,37 @@
   ],
   "Uncategorized": [
     {
+      "name": "Balloon",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gift",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "GreasyFork",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Iconfont",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Map",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Map_A",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -2872,6 +2938,12 @@
     },
     {
       "name": "Speedtest_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Time",
       "type": "png",
       "ext": ".png",
       "course": ""
