@@ -2960,5 +2960,8951 @@
       "ext": ".png",
       "course": ""
     }
+  ],
+  "HDIcons-Borderradius": [
+    {
+      "name": "115_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "115_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "115_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "12306_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "123Pan_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "123Pan_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "163music_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "163music_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "189drive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "1Panel_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "1Panel_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "2Fas_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "2Fauth_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "2Fauth_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "9Kuai_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Actual_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Acunetix_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Acunetix_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Acunetix_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Acunetix_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Adguard_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Adguard_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Adminer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Affine_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Airflow_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Airflow_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Airflow_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Airflow_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Alicloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Alidrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Alist_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Alist_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Alist_encrypt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Amc+_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Amc_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Amule_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Amule_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Amule_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Anaconda_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Anaconda_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Anirss_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Anytype_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Aospace_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Apache_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Apache_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Apache_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Apache_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Apache_webdav_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Appflowy_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Appletv+_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Appletv_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Aqua_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Aqua_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Arch_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Arch_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Aria2_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Aria2_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Aria2_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Asus_router_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Atuin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Audiobookshelf_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Authelia_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Authelia_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Authentik_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autobangumi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autobangumi_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autobrr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autosymlink_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autosymlink_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autosymlink_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autosymlink_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Aws_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Azure_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "B2cloud_storage_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Baidu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Baidu_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Baidu_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Baidudrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Baidudrive_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Baidumap_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bard_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bark_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Baserow_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bazarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bazarr_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Beszel_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bigdatatools_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bigdatatools_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Biglybt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bilibili_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bilibili_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bilibili_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bilibili_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bilibili_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bililive_recorder_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bitwarden_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bitwarden_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Blinko_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Blossom_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Blossom_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bookstack_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bracket_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bytebase_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bytemuse_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Caddy_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cadvisor_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cal.com_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cal.com_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Calibre_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Calibre_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Calibre_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Calibreweb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Calibreweb_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Casaos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cbs_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Centos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Centos_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Certimate_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chandao_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chandao_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chanify_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Channel-watch_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chatgpt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chd_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chd_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Check-mk_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chevereto_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chinesesubfinder_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chrome_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chrome_extension_store_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cisco_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clamav_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Claper_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clash_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clash_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clashverge_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clashverge_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clion_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clion_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloud-media-sync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudbeaver_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudbeaver_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudcmd_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudcmd_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clouddrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clouddrive_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudflare_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudflare_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudsaver_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Codeserver_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Codewithme_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Codewithme_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Codex_docs_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Collabora_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Compose-craft_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Compose_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Compose_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Composerize_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Containernursey_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Convertx_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cookiecloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cookiecloud_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cooler-control_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Couchdb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cyberchef_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DNF_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DNF_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DNF_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DNF_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dae_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dae_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Daily-hot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dakosys_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dashdot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Datagrip_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Datagrip_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Datalore_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Datalore_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dataspell_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dataspell_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dawarich_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ddns_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Debian_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Debian_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Deepin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Deepseek_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dell_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Deluge_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dianxinyun_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dicmusic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dim_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dim_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Directus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Discord_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Disney+_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dnschecker.org_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dnschecker.org_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker-copilot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_G",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_registry_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_registry_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dockge_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docmost_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docspell_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Documize_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docusaurus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docusaurus_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dootask_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Doris_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Doris_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dotcover_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dotcover_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dotmemory_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dotmemory_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dotpeek_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dotpeek_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dottrace_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dottrace_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Doubao_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dozzle_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dpanel_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Drawdb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Drawio_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dsaudio_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dscam_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dscloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dsfile_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dsfinder_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dsnote_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dsphoto_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dsrouter_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dsvideo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dumb-assets_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Duplicati_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Duplicati_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dweebui_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Easytier_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Easytier_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Edge_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Elastic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Elastic_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Elastic_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Elastic_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Element_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Emby_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Emby_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Emby_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Emby_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Emqx_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Enpass_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Epicgames_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Esphome_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Etherpad_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Excalidraw_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Excalidraw_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fail2ban_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fast-emby_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Featherwiki_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Feishin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Feishu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fenrus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fenrus_A_R",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ferdi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ferdi_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ferdi_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "File-code-box_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Filebrowser_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Filebrowser_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Filerise_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Filerun_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Filerun_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Firefox_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Firefox_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flaresolverr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flatnotes_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flatnotes_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flclash_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fleet_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fleet_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flexget_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flink_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flink_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flood_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fmd-server_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Focalboard_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Focalboard_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Folder_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Folder_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Foliate_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Forgejo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Frds_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Freefilesync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Freegamesclaimer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Freenom_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Freenom_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Freshrss_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Freshrss_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Frigate_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Frigate_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Frigate_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Frigate_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Frp_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gaodemap_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gatus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gatus_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gcore_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gcore_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gemini_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ghostfolio_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Git_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Git_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gitea_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gitea_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gitee_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Github-actions_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Github-actions_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Github-actions_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Github-actions_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Github_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Github_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Github_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Githubdesktop_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gitlab_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gitlab_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Glances_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Glances_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Glances_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Glances_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Goland_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Goland_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Google_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Google_cloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Googleclassroom_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Googledrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Googleearth_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Googlemap_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Googletv_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Googlevoice_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gopeed_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gopeed_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Grafana_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Grimoire_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Grimoire_A_R",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Guacamole_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ha_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ha_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ha_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hadoop_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hadoop_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Handbrake_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Handbrake_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hbomax_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hedgedoc_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Heimdall_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Heimdall_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Heimdall_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Heimdall_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Helm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Helm_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hexo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hexo_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Heyform_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hiddify_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hlink_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hoarder_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Home-gallery_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homebridge_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homepage_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homepage_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homepage_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homepage_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Huashengke_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hulu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Huntarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iceberg_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ikuai_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ikuai_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Immich_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Immich_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Immich_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Immich_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Impala_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Influxdb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Influxdb_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Intellij-idea_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Intellij-idea_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Invoice_ninja_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iobroker_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iptv_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iptv_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iptv_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iptv_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iptv_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iptv_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iptv_G",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ipw.cn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Istoreos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Itdog.cn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ittools_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iyuu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jackett_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jellyfin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jellyfin_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jellyfin_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jellyseerr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jellyseerr_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jelu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jenkins_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jenkins_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jfago_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jfago_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jmalcloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Joplin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Joplin_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jumpserver_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jumpserver_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jupyter_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jupyter_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kdocs_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kener_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kmplayer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kodcloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kodcloud_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kodi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kodi_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Koel_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Komga_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Komga_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Koodoreader_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Koodoreader_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Koodoreader_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kopia_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Koreader_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Koshi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kotlin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kotlin_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kplayer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Krusader_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Krusader_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ktor_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ktor_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kubernetes_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kubernetes_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kubespider_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Kutt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lakekeeper_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lanzouyun_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lanzouyun_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lanzouyun_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lanzouyun_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Leantime_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Leantime_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Leichi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Libreddit_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Librespeed_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lidarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Limesurvey_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Limesurvey_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkace_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkace_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkace_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkace_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkding_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkease_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkwarden_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linux_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Listmonk_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Listmonk_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Loggit_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Logseq_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lol-esports_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lomorage_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lrcapi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lskypro_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lucky_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lynx_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mafl_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Maloja_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Maloja_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Manticore-search_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mariadb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mariadb_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mastodon_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mastodon_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mastodon_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mathesar_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mattermost_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mattermost_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mattermost_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mattermost_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mautic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mazanoke_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mdcng_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mdcng_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mdcng_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mdcx_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Media302_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Media302_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Media302_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mediaelch_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mediainfo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mediasaber_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mediawiki_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Meilisearch_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Melody_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Memcached_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Memos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Memos_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Memos_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Memos_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Memos_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Meremedical_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Metabase_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Metacubexd_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Metatube_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Metube_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Metube_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mgm+_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Microsoft365_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Microtalk-p2p_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Microtalk-sfu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mihomo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mimiri-notes_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mindsdb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Miniflux_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Minio_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Minio_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Minio_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Minio_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Miniserve_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Miwifi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mkvtoolnix_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mkvtoolnix_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mobiledrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mongodb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mongodb_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mongodb_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mongodb_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Moodle_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mosdns_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mosquitto_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mosquitto_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Motrix_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mover_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Moviepilot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Moviepilot_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Movierobot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Movierobot_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mps_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mps_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mtphotos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mtphotos_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mtphotos_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Musicn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Musictag_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mysql_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mysql_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "N8n_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "N8n_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "N8n_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Namecheap-ddns-updater_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nascab_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nastools_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nastools_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Navicat_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Navidrome_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Navidrome_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ndu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ndu_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Neko_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nessus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nessus_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Netdata_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Netdata_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Netflix_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "News-now_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nextcloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nexterm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nextterminal_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nezha_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_G",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_H",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nodered_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nodered_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Notabase_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Notemark_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Notesnook_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Npm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Npm_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Npm_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Npm_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nps_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nps_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ntfy_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nut_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nvidia_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nvidia_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nxshell_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Oauth2proxy_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ob_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Obsidian_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Office_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Office_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ollama_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ombi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ombi_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Omnivore_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Omnivore_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "One-kvm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Onedev_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Onedrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Onedrive_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Onedrive_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Onestrm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Onlyoffice_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Onlyoffice_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Open-metadata_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Open-webui_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Openlist_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Opentofu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Openvpn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Openvpn_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Openwrt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Openwrt_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Orb.net_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Orion-visor_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Outline_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Overleaf_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Overleaf_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Oxicloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Padavan_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Padavan_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Padloc_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Palworld_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Palworld_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Palworld_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Palworld_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Palworld_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Palworld_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pangolin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Paperless_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Paramount+_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Passbolt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Passbolt_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Passky_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Peanut_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Perlite_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pgvecto.rs_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photopea_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoshop_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photostructure_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photostructure_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photostructure_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photostructure_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photostructure_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoview_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoview_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Phpstorm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Phpstorm_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pihole_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pihole_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pikpak_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pingvin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Planka_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plex_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plex_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plex_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plexmetamanager_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plexmetamanager_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plexmetamanager_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plexmetamanager_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plugins_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Plugins_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pma_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pma_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pomerium_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pomerium_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Portainer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Portainer_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Portainer_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Portainer_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Postgresql_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Postgresql_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Primevideo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Prometheus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Prometheus_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Prowlarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pthelper_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pthelper_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ptools_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ptools_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ptools_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pulsarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pushplus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pve_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pve_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pve_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pycharm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pycharm_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pydiocells_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Python_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "QQ_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qbitmanage_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qbittorrent_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qbittorrent_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qi-reader_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qiandao_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qinglong_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qinglong_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qiniu_cloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qnap_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qnap_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qodana_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qodana_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Quantumultx_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Quark_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Quill_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Quill_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Radarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rclone_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rclone_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rclonebrowser_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Readarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Readarr_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Readeck_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Readthedocs_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Readthedocs_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Recommendarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Redhat_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Redis_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Redleaves_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Remotely_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Requestrr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Resharper_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Resharper_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Resharperc++_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Resharperc++_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Resilio-sync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rider_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rider_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Riderflow_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Riderflow_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Riot-games_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Riot-games_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Riot-games_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Riot-games_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocketchat_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocketchat_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocky_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocky_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocky_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocky_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rog_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rog_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Roon_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Roon_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rosy_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Routeros_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Routeros_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rsshub_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rsync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rubymine_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rubymine_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rustdesk_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rustrover_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rustrover_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rxresume_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Scala_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Scala_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Scrutiny_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Scrutiny_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Scrutiny_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Scrutiny_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Seafile_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Searx_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Searxng_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Seatable_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Seatable_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Selectdb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Semaphore_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Servas_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sftpgo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sftpgo_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Shadcn-ui_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Shadowrocket_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Shadowsocks_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Shadowsocksr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sharkpt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Shiori_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Showtime_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sht_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Singbox_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Siyuan_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Slack_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Slash_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Smanga_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Smartdns_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Smartdns_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Snap2html_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Snapdrop_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sonarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sonatype-nexus-repository_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sonatype-nexus-repository_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sonatype_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Speedtest_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Splayer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Spotify_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Squoosh_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ssd_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ssd_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ssd_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sshwifty_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Standardnotes_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Standardnotes_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Stash_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Steam_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Stirlingpdf_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Subplayer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sunpanel_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sunpanel_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Superset_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Superset_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Superset_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Superset_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Surfboard_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Suwayomi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Swingmusic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Symedia_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Symedia_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Symedia_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Symedia_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Syncplay_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synctv_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synctv_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synochat_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synodrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synolivecam_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synology_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synology_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synomail_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synomoments_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synophotos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synosecure_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Synovpn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tabby_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tailchat_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tailscale_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tandoor_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Taosync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Taosync_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tasmoadmin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tasmota_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tasmota_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tautulli_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tbs_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tdarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Teable_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Teammapper_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Teampass_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Teamspeak_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telegram_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telegram_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tenable_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tenable_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tencent_cloud_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Terabox_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Terabox_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Termix_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Teslamate_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Teslamate_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "The-lounge_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Themeengine_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Thunderbird_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tieba_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tiktok_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Time_machine_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tips_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tjupt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tmm5_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tmm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tongyi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tongyi_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tongyi_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Toolbox_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Toolbox_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tortoisesvn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tortoisesvn_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tortoisesvn_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tortoisesvn_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Traccar-client_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Traccar-manager_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Traefik_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Traefik_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Transmission_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Transmission_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Trilium_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Trilium_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Truenas_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Truenas_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Truenas_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Truenas_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Truenas_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Truenas_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tvhelper_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ugos-pro_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unbalance_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unbound_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unbound_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Univer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Univer_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unlockmusic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unlockmusic_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unraid_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unraid_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unraid_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Unraid_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Upsnap_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Uptimekuma_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Uptimekuma_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "V2ray_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "V2ray_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "V2raya_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "V2raya_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "V2raya_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "V2raya_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vagrant_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vagrant_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vertex_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vertex_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Verysync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Verysync_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vmware_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vmware_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vnc_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vocechat_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vscode_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vscode_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vscode_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vscodium_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vscodium_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vuetify_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Waline_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wallabag_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wallabag_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wallabag_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wallabag_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wallos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wangxinyun_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wangxinyun_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ward_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Watchtower_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wbo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Webdav_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Webos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Webstorm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Webstorm_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wechat_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wechat_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Weclone_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wecom_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wecom_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wekan_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wekan_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wekan_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wenxin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Whaledeck_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Whisparr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Whisparr_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wikijs_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wikijs_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Willow_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Windows-server_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Windows10_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Windows11_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Windows7_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Windows8_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Windows95_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wireguard_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wisemapping_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wizarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wiznote_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wiznote_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wiznote_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wordpress_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wordpress_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Writerside_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Writerside_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wxread_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xiaoya_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xike_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xstrm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xunlei_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xunlei_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Yacd-meta_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Yesplaymusic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtrack_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtrack_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtube_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtube_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtube_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtube_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtubedl_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtubedl_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtubedl_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Yuanbao_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Zerotier_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Zfile_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Zfile_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Zigbeemqtt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Zimaos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "国家电网_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "智谱清言_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "极空间_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "绿联私有云_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "节点小宝_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "飞牛私有云_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    }
+  ],
+  "HDIcons-Circle": [
+    {
+      "name": "Actual_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Actual_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Apache_webdav_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ariang_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Audiobookshelf_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Autobangumi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bazarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bracket_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Bytemuse_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Caddy_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Certimate_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chandao_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Chandao_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Channel-watch_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloud-media-sync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Clouddrive_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudflare_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudflare_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudsaver_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Compressarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DDNS_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Daily-hot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Dell_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker-copilot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docker_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Docspell_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Feishin_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Fenrus_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "FileBrowser_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Flood_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "FreshRSS_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gitee_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Gopeed_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Guacamole_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homebridge_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Homer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Huntarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "IYUU_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Iceberg_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ipw.cn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Itdog.cn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jellyseerr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Koshi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Librespeed_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lidarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkding_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Listmonk_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Loggit_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_Bigsur_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_Catalina_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_EI_Capitan_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_High_Sierra_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_Mojave_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_Monterey_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Macos_Sierra_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mastodon_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Minio_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Musicn_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Navidrome_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nexterm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Notemark_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ombi_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Omnivore_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Open-webui_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Orb.net_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "PTHelper_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "PVE_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "PVE_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Photostructure_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Prowlarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Pulsarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qbittorrent_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qbittorrent_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Qinglong_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Readarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocky_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rocky_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Rosy_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Selectdb_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Semaphore_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Shiori_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Slack_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Slash_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sonarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Speedtest_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Squoosh_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Sshwifty_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Subplayer_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Swingmusic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tandoor_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tautulli_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tdarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Teampass_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telegram_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Termix_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Time_machine_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Time_machine_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Trakt_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Trilium_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "UnlockMusic_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Verysync_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vscodium_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Watchtower_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Webdav_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Whisparr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Willow_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wireguard_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wizarr_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Wordpress_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xstrm_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtube-dl_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtube-dl_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Youtube-dl_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    }
+  ],
+  "HDIcons-SVG": [
+    {
+      "name": "9Kuai_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Actual_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Acunetix_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Adguard-home_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Adminer_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Airflow_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Airflow_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Airflow_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Alicloud_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Alist_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Amule_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Anaconda_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Anirss_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Apache_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Apache_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Apache_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Appletv+_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Aqua_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Arch_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Atuin_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Audio-bookshelf_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Authelia_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Authelia_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Authentik_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Autobrr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Baidu_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bard_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Baserow_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bazarr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "BigDataTools_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bilibili_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bililive-recorder_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bitwarden_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bitwarden_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Blinko_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Blossom_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bracket_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Bytebase_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "CLion_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Caddy_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cal.com_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Calibre-web_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Casaos_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Centos_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Centos_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Certimate_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Chatgpt_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Chatgpt_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Chevereto_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Chrome_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cisco_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Claper_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cloud-beaver_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cloud-beaver_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cloudflare_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cloudflare_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Code-server_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Code-with-me_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Codex-docs_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cooler-control_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cyberchef_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Cyberchef_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "DM_20240201114214_043",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "DataGrip_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "DataSpell_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Datalore_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Dawarich_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Debian_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Debian_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Deepin_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Deepseek_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Dell_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Deluge_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Directus_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Directus_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Discord_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Docker-registry_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Docker_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Docker_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Docker_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Docker_D",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Docspell_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Dootask",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Doris_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "DotCover_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "DotMemory_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "DotPeek_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "DotTrace_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Dozzle_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Drawio_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Dumb-assets_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Duplicati_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Element_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Etherpad_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Featherwiki_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Fenrus_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Filerise_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Filerise_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Filerise_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Flaresolverr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Fleet_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Flink_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Flink_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Fmd-server_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Focalboard_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Folder_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Forgejo_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Gcore_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Git_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Git_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Gitee_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Gitlab_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Glances_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Glances_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Glances_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Glances_D",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "GoLand_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Gopeed_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Grimoire_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Hadoop_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Hadoop_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Hedgedoc_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Heyform_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Hive_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Hoarder_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Home-gallery_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Homer_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Huntarr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Intellij-idea_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Ipw.cn_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "It-tools_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Jfa-go_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Jfa-go_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Jmalcloud_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Jupyter_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Koel_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Kopia_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Kotlin_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Ktor_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Leichi_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Librespeed_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Limesurvey_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Linkding_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Listmonk_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Loggit_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Lol-esports_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Lrcapi_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Lynx_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "MPS_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mafl_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Manticore-search_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mastodon_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mastodon_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mathesar_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mautic_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mdcng_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mdcng_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mediawiki_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Meilisearch_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Meremedical_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Metabase_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Metacubexd_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Microtalk-p2p_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Microtalk-sfu_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Mindsdb_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Miniserve_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Moodle_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "N8n_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Namecheap-ddns-updater_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "News-now_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Nexterm_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Nezha_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Nginx_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Nginx_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Nginx_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Notabase_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Notemark_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Nut_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Nvidia_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Oauth2proxy_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Ollama_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "One-kvm_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Onestrm_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Open-metadata_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Open-webui_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Openlist_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Opentofu_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Orb.net_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Orion-visor_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Outline_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Oxicloud_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Padloc_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Pangolin_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Paperless_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Perlite_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Photopea_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "PhpStorm_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Plex_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Plex_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Plex_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Ptools_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Pulsarr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "PyCharm_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Python_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Qi-reader_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Qnap_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Qnap_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Qodana_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Quark_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Quill_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Radarr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "ReSharperC++_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "ReSharper_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Readeck_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Readeck_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Readthedocs_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "RiderFlow_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Rider_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Riot-games_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Rocky_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Rog_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "RubyMine_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "RustRover_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Rxresume_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Scala_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Semaphore_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Servas_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Shadcn-ui_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Snapdrop_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Sonatype-nexus-repository_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Sonatype-nexus-repository_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Sonatype_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Splayer_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Squoosh_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Stash_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Sunpanel_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Superset_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Superset_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Superset_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Superset_D",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Superset_E",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Superset_F",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Superset_G",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Swing-music_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Synctv_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Synctv_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Tailchat_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Taosync_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Teable_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Team-mapper_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Teampass_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Telegram_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Telegram_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Telegram_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "The-lounge_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Thunderbird_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Tongyi_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "ToolBox_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Traccar_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Unbalance_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Unlock-music_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Unraid_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Uptime-kuma_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "V2raya_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vagrant_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vertex_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vertex_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vmware_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vscode_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vscode_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vscodium_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vscodium_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Vuetify_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wallabag_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wallabag_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wallabag_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wallos_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Watchtower_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wbo_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "WebStorm_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wechat_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wechat_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Weclone_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wekan_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wekan_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Whisparr_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wikijs_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Willow_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Windows-server_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Windows10_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Windows7_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Windows8_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Windows95_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wireguard_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wise-mapping_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Wordpress_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Writerside_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "YouTrack_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Youtube_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Youtube_B",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Youtube_C",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Youtube_D",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Youtube_E",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Zfile_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Zigbeemqtt_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Zimaos_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "节点小宝_A",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    }
   ]
 }

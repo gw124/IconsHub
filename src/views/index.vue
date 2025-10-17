@@ -97,16 +97,8 @@
 							<template #content> {{ getItemContent(item) }}</template>
 							<!--<template #content>-->
 							<el-image
-								v-if="item.type === 'svg'"
 								class="card_img"
-								:src="data.publicPath + 'icon/' + item.name + '.svg'"
-								lazy
-								fit="contain"
-							/>
-							<el-image
-								v-else
-								class="card_img"
-								:src="data.publicPath + 'icon/' + category + '/' + item.name + (item.ext || '.png')"
+								:src="data.publicPath + 'icon/' + category + '/' + item.name + (item.ext || (item.type === 'svg' ? '.svg' : '.png'))"
 								lazy
 								fit="contain"
 							/>
