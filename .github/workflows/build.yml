@@ -78,7 +78,25 @@ jobs:
           echo "deploy_branch=$BRANCH" >> $GITHUB_OUTPUT
           echo "deploy_commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
 
-      - name: Build project (includes scan-icons)
+      - name: Scan icons and auto-update db.json
+        run: |
+          echo "🔍 扫描图标并更新 db.json..."
+          npm run scan-icons
+          
+          # 检查是否有改动
+          if ! git diff --quiet public/db.json public/category-titles.json public/config.yml; then
+            echo "📝 检测到配置文件变化，自动提交更新"
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add public/db.json public/category-titles.json public/config.yml
+            git commit -m "chore: 自动更新 db.json 和配置文件 [skip ci]"
+            git push
+            echo "✅ db.json 已自动更新并提交"
+          else
+            echo "✅ 配置文件无变化，跳过提交"
+          fi
+
+      - name: Build project
         run: npm run build
 
       - name: Deploy to GitHub Pages
