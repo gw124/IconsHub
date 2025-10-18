@@ -1,73 +1,359 @@
 {
-  "AI": [
+  "App Hub": [
     {
-      "name": "ChatBot UI",
+      "name": "Bitwarden",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "ChatGPT Next Web",
+      "name": "Chrome",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "ChatGPT Web",
+      "name": "Docker",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "ChatPad AI",
+      "name": "FinalShell",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Cursor",
+      "name": "GitHub_A",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "DeepSeek",
+      "name": "GitHub_B",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "FastGPT",
+      "name": "GitHub_C",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Gemini",
+      "name": "GitHub_D",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "LlamaGPT",
+      "name": "GitLab",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "LobeChat",
+      "name": "Gitee",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Stable Diffusion",
+      "name": "Gmail",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Tongyi Qianwen",
+      "name": "Google Harddisk",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Google Maps",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Google Photo",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Google Play",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Google",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "JingDong",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Safari",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "Taobao",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "TianMao",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Translate",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Vaultwarden",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Xiaomi",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    }
+  ],
+  "Personal Projects": [
+    {
+      "name": "1Panel",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "AdGuard Home",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Alist",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "BT Panel",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "CloudDrive2",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DDNS",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Duplicati",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Lucky",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nextcloud",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nezha Monitoring",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Nginx Proxy Manager",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Portainer",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Watchtower",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "aapanel",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    }
+  ],
+  "Social & Entertainment": [
+    {
+      "name": "Bilibili",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Disney+",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "FanQieNovel",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Jingritoutiao",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "Lastfm",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Netflix_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Netflix_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "QQ Music",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "QiDian",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telegram",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "Telegram_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telegram_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tencent Video",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Twitter",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "Xbox",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "Youtube",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "ZhiHu",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "iQIYI",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -255,137 +541,77 @@
       "course": ""
     }
   ],
-  "App Hub": [
+  "AI": [
     {
-      "name": "Bitwarden",
+      "name": "ChatBot UI",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Chrome",
+      "name": "ChatGPT Next Web",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Docker",
+      "name": "ChatGPT Web",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "FinalShell",
+      "name": "ChatPad AI",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "GitHub_A",
+      "name": "Cursor",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "GitHub_B",
+      "name": "DeepSeek",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "GitHub_C",
+      "name": "FastGPT",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "GitHub_D",
+      "name": "Gemini",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "GitLab",
+      "name": "LlamaGPT",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Gmail",
+      "name": "LobeChat",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Google Harddisk",
+      "name": "Stable Diffusion",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Google Maps",
+      "name": "Tongyi Qianwen",
       "type": "png",
       "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Google Photo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Google Play",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Google",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "JingDong",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Safari",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
-      "name": "Taobao",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
-      "name": "TianMao",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Translate",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Vaultwarden",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Xiaomi",
-      "type": "jpeg",
-      "ext": ".jpeg",
       "course": ""
     }
   ],
@@ -609,111 +835,45 @@
       "course": ""
     }
   ],
-  "Social & Entertainment": [
+  "Internet of Things (IoT)": [
     {
-      "name": "Bilibili",
+      "name": "Gladys Assistant",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Disney+",
+      "name": "Home Assistant_A",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "FanQieNovel",
+      "name": "Home Assistant_B",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Jingritoutiao",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
-      "name": "Lastfm",
+      "name": "Home Assistant_C",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Netflix_A",
+      "name": "Home Assistant_D",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Netflix_B",
+      "name": "ThingsBoard",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "QQ Music",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "QiDian",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telegram",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
-      "name": "Telegram_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telegram_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Tencent Video",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Twitter",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
-      "name": "Xbox",
-      "type": "jpeg",
-      "ext": ".jpeg",
-      "course": ""
-    },
-    {
-      "name": "Youtube",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "ZhiHu",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "iQIYI",
+      "name": "WebThings Gateway",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -986,1068 +1146,6 @@
     },
     {
       "name": "zmpt",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Downloader": [
-    {
-      "name": "Aria2",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Deluge",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Gopeed",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "IYUU_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "IYUU_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "JDownloader2",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MeTube",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nzbget",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "PyLoad",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Transmission",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Vertex",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "qBittorrent",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Analytics": [
-    {
-      "name": "GoAccess",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Grafana",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Matomo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Metabase",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Plausible Analytics",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Superset",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Tautulli",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Umami",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Webcheck",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Automation": [
-    {
-      "name": "Jackett",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Prowlarr",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Radarr",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Sabnzbd_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Sabnzbd_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Sonarr",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "n8n",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "CMS": [
-    {
-      "name": "Halo_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Halo_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Halo_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Halo_D",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Halo_E",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Halo_F",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Halo_G",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Hexo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Hugo_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Hugo_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Hugo_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Typecho",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "WordPress_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "WordPress_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "WordPress_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Database Management": [
-    {
-      "name": "InfluxDB_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "InfluxDB_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MariaDB_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MariaDB_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MariaDB_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MySQL_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MySQL_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "PostgreSQL",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Teable",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "DNS": [
-    {
-      "name": "AdGuard Home",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Blocky",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "CloudDNS_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "CloudDNS_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DDNS",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Lucky",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Maza ad blocking",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Pi-Hole",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Technitium DNS Server",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Feed Readers": [
-    {
-      "name": "CommaFeed",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "FreshRSS",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Miniflux",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Rsshub",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "File Transfer": [
-    {
-      "name": "Alist",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Chibisafe",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "CloudDrive2",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Cloudreve",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Docat",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Duplicati",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "FileBrowser",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Minio_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Minio_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Minio_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Minio_D",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Minio_E",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Minio_F",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nextcloud",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "PairDrop",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Pingvin Share",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Plik",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Resilio Sync",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Snapdrop",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Syncthing",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "VerySync",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Personal Dashboards": [
-    {
-      "name": "Dashy",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Fenrus",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Heimdall",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Homarr",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Homepage",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Homer",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "LinkStack",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Mtab",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Onenav",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Sun Panel",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Untitled",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Photo and Video Galleries": [
-    {
-      "name": "Immich_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Immich_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Librephotos",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Lsky Pro_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Lsky Pro_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Lsky Pro_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Lychee",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MT Photos_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MT Photos_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "PhotoPrism",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "PiGallery 2",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Piwigo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Remote Access": [
-    {
-      "name": "Remmina",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "RustDesk",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "ScreeGo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Shellhub",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Sshwifty",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Project Management & To-do List": [
-    {
-      "name": "Dootask",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_D",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "GitLab",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Gitea",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Gitee",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Kanboard",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Leantime",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Plane",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Planka",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Tasks.md",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Vikunja",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Wekan",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Document Management": [
-    {
-      "name": "Calibre Web",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Calibre",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Docat",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Docspell",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DocuSeal",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Kapowarr",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Kavita",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Komga",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Notion",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Paperless-ngx_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Paperless-ngx_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Readeck",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Stirling PDF",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Teedy",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Note-taking & Editors & Wikis": [
-    {
-      "name": "Affine",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "An Otter Wiki",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Appflowy",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "BookStack",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Docusaurus",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DokuWiki",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Draw.io",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Excalidraw",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Flatnotes",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "FocalBoard",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "HedgeDoc",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Joplin",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MediaWiki",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Memos",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Mrdoc",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Outline",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Pepperminty Wiki",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Siyuan",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Standard Notes",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Tiddlywiki",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Trilium Notes",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Wikijs",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Internet of Things (IoT)": [
-    {
-      "name": "Gladys Assistant",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_D",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "ThingsBoard",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "WebThings Gateway",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -2559,6 +1657,98 @@
       "course": ""
     }
   ],
+  "CMS": [
+    {
+      "name": "Halo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_D",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_E",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_F",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Halo_G",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hexo",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hugo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hugo_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Hugo_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Typecho",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "WordPress_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "WordPress_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "WordPress_C",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    }
+  ],
   "Self-hosting Solutions & OS": [
     {
       "name": "CasaOS",
@@ -2604,6 +1794,24 @@
     },
     {
       "name": "Linux",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Proxmox VE_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Proxmox VE_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Proxmox VE_C",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -2730,146 +1938,6 @@
     },
     {
       "name": "macOS",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "Linux Server Operation and Management Panel": [
-    {
-      "name": "1Panel",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "BT Panel",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Cstate",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Dash",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DockerCopilot_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DockerCopilot_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Dockge",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Dozzle",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Gatus",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Netdata",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nezha Monitoring",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nginx Proxy Manager",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Portainer",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Proxmox VE_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Proxmox VE_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Proxmox VE_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "SafeLine",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Tissue_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Uptime Kuma",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Watchtower",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "What's up Docker_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "What's up Docker_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "aapanel",
       "type": "png",
       "ext": ".png",
       "course": ""
