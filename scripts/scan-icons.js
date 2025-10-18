@@ -78,6 +78,14 @@ function scanIcons() {
             console.log('📋 已同步 category-titles.json 到 public 目录');
         }
         
+        // 复制 config.yml 到 public 目录
+        const configSource = path.join(__dirname, '../config.yml');
+        const configPublic = path.join(__dirname, '../public/config.yml');
+        if (fs.existsSync(configSource)) {
+            fs.copyFileSync(configSource, configPublic);
+            console.log('⚙️  已同步 config.yml 到 public 目录');
+        }
+        
         console.log('🎉 图标数据生成完成！');
         console.log(`📊 总计: ${Object.keys(iconData).length} 个分类, ${Object.values(iconData).reduce((total, items) => total + items.length, 0)} 个图标`);
         
