@@ -78,10 +78,7 @@ jobs:
           echo "deploy_branch=$BRANCH" >> $GITHUB_OUTPUT
           echo "deploy_commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
 
-      - name: Scan icons
-        run: npm run scan-icons
-
-      - name: Build project
+      - name: Build project (includes scan-icons)
         run: npm run build
 
       - name: Deploy to GitHub Pages
