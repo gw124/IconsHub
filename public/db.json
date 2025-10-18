@@ -231,6 +231,12 @@
       "course": ""
     },
     {
+      "name": "Sunpanel_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Syncthing",
       "type": "png",
       "ext": ".png",
