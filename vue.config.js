@@ -64,34 +64,40 @@ module.exports = defineConfig({
       })
       .end()
     
-    // 预加载优化
-    config.plugin('preload').tap(() => [
-      {
-        rel: 'preload',
-        fileBlacklist: [/\.map$/, /hot-update\.js$/, /runtime\..*\.js$/],
-        include: 'initial',
-      },
-    ])
+    // 预加载优化（检查插件是否存在）
+    if (config.plugins.has('preload')) {
+      config.plugin('preload').tap(() => [
+        {
+          rel: 'preload',
+          fileBlacklist: [/\.map$/, /hot-update\.js$/, /runtime\..*\.js$/],
+          include: 'initial',
+        },
+      ])
+    }
     
-    // 预获取优化
-    config.plugin('prefetch').tap(() => [
-      {
-        rel: 'prefetch',
-        fileBlacklist: [/\.map$/, /hot-update\.js$/],
-      },
-    ])
+    // 预获取优化（检查插件是否存在）
+    if (config.plugins.has('prefetch')) {
+      config.plugin('prefetch').tap(() => [
+        {
+          rel: 'prefetch',
+          fileBlacklist: [/\.map$/, /hot-update\.js$/],
+        },
+      ])
+    }
     
     // HTML 优化
-    config.plugin('html').tap(args => {
-      args[0].minify = {
-        removeComments: true,
-        collapseWhitespace: true,
-        removeAttributeQuotes: true,
-        collapseBooleanAttributes: true,
-        removeScriptTypeAttributes: true,
-      }
-      return args
-    })
+    if (config.plugins.has('html')) {
+      config.plugin('html').tap(args => {
+        args[0].minify = {
+          removeComments: true,
+          collapseWhitespace: true,
+          removeAttributeQuotes: true,
+          collapseBooleanAttributes: true,
+          removeScriptTypeAttributes: true,
+        }
+        return args
+      })
+    }
   },
   
   //修改favicon.ico
