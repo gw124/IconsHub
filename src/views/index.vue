@@ -156,7 +156,7 @@ export default defineComponent({
 			site: { title: "IconsHub", description: "提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途" },
 			deployment: { branch: "Web", domain: "icons.gw124.top" },
 			copyright: { startDate: "2025-01-01", autoRange: true },
-			footer: { websiteText: "ICONS.GW124.TOP", websiteUrl: "https://icons.gw124.top", authorText: "Wen", authorUrl: "https://github.com/GWen124" }
+			footer: { websiteText: "ICONS.GW124.TOP", websiteUrl: "https://github.com/GWen124/IconsHub", authorText: "Wen", authorUrl: "https://gw124.top/" }
 		});
 		
 		// 版权年份
