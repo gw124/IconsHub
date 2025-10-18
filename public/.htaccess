@@ -1,0 +1,68 @@
+# 启用 Gzip 压缩
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript application/json application/xml
+</IfModule>
+
+# 启用浏览器缓存
+<IfModule mod_expires.c>
+    ExpiresActive On
+    
+    # 图片缓存 30 天
+    ExpiresByType image/png "access plus 30 days"
+    ExpiresByType image/jpg "access plus 30 days"
+    ExpiresByType image/jpeg "access plus 30 days"
+    ExpiresByType image/gif "access plus 30 days"
+    ExpiresByType image/svg+xml "access plus 30 days"
+    ExpiresByType image/webp "access plus 30 days"
+    
+    # CSS 和 JS 缓存 7 天
+    ExpiresByType text/css "access plus 7 days"
+    ExpiresByType application/javascript "access plus 7 days"
+    ExpiresByType application/x-javascript "access plus 7 days"
+    
+    # JSON 缓存 1 小时
+    ExpiresByType application/json "access plus 1 hour"
+    
+    # HTML 不缓存
+    ExpiresByType text/html "access plus 0 seconds"
+</IfModule>
+
+# 启用 Cache-Control
+<IfModule mod_headers.c>
+    # 图片资源
+    <FilesMatch "\.(png|jpg|jpeg|gif|svg|webp)$">
+        Header set Cache-Control "public, max-age=2592000, immutable"
+    </FilesMatch>
+    
+    # CSS 和 JS
+    <FilesMatch "\.(css|js)$">
+        Header set Cache-Control "public, max-age=604800"
+    </FilesMatch>
+    
+    # JSON 文件
+    <FilesMatch "\.json$">
+        Header set Cache-Control "public, max-age=3600"
+    </FilesMatch>
+    
+    # HTML 文件
+    <FilesMatch "\.html$">
+        Header set Cache-Control "no-cache, must-revalidate"
+    </FilesMatch>
+</IfModule>
+
+# 支持 WebP 图片
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # 如果浏览器支持 WebP 且 WebP 文件存在，则使用 WebP
+    RewriteCond %{HTTP_ACCEPT} image/webp
+    RewriteCond %{REQUEST_FILENAME} (.*)\.(png|jpe?g)$
+    RewriteCond %1.webp -f
+    RewriteRule ^ %1.webp [L,T=image/webp]
+</IfModule>
+
+# 添加 WebP MIME 类型
+<IfModule mod_mime.c>
+    AddType image/webp .webp
+</IfModule>
+

@@ -50,6 +50,34 @@ npm install
 npm run serve
 ```
 
+## 性能优化构建
+
+针对 1500+ 图标的加载优化，提供以下构建方式：
+
+### 标准构建
+```shell
+npm run build
+```
+
+### 优化构建（推荐）
+```shell
+# 包含图片 WebP 转换 + 压缩优化
+npm run build:optimized
+```
+
+### 仅优化图片
+```shell
+npm run optimize-images
+```
+
+**优化效果**：
+- 首次加载时间减少 60-80%
+- 二次访问接近即时加载
+- 图片体积减少 30-50%
+- 支持离线缓存
+
+详细优化说明请查看 [OPTIMIZATION.md](./OPTIMIZATION.md)
+
 # 六、Docker部署
 
 1. Docker部署Nginx服务

@@ -9,7 +9,9 @@
     "dev": "npm run scan-icons && npm run serve",
     "watch": "node scripts/simple-watch.js",
     "config:validate": "node scripts/validate-config.js",
-    "config:load": "node scripts/config-loader.js"
+    "config:load": "node scripts/config-loader.js",
+    "optimize-images": "node scripts/optimize-images.js",
+    "build:optimized": "npm run optimize-images && npm run scan-icons && vue-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.8.3",
@@ -27,6 +29,7 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "chokidar": "^4.0.3",
+    "compression-webpack-plugin": "^11.1.0",
     "js-yaml": "^4.1.0",
     "sass": "^1.32.7",
     "sass-loader": "^12.0.0",

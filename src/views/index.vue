@@ -101,7 +101,18 @@
 								:src="data.publicPath + 'icon/' + category + '/' + item.name + (item.ext || (item.type === 'svg' ? '.svg' : '.png'))"
 								lazy
 								fit="contain"
-							/>
+								loading="lazy"
+								:intersection-observer="{ threshold: 0.1 }"
+							>
+								<template #placeholder>
+									<div class="image-placeholder">
+										<div class="loading-spinner"></div>
+									</div>
+								</template>
+								<template #error>
+									<div class="image-error">加载失败</div>
+								</template>
+							</el-image>
 						</el-tooltip>
 						<div class="card_content_txt" @click="openUrl(item.course)" :class="item.course !== '' ? 'card_content_course' : ''">
 							{{ item.name }}
@@ -945,6 +956,44 @@ html, body {
 				right: 1rem;
 			}
 		}
+	}
+}
+
+/* 图片加载占位符和错误样式 */
+.image-placeholder,
+.image-error {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 64px;
+	height: 64px;
+	background: #f5f5f5;
+	border-radius: 13px;
+}
+
+.loading-spinner {
+	width: 24px;
+	height: 24px;
+	border: 3px solid #e0e0e0;
+	border-top-color: #6366f1;
+	border-radius: 50%;
+	animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+	to { transform: rotate(360deg); }
+}
+
+.image-error {
+	font-size: 0.7rem;
+	color: #999;
+}
+
+/* 图片加载优化 */
+.el-image {
+	img {
+		image-rendering: -webkit-optimize-contrast;
+		image-rendering: crisp-edges;
 	}
 }
 

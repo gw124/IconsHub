@@ -1,0 +1,64 @@
+# IconsHub Nginx 配置示例
+# 将此配置添加到你的 Nginx 服务器配置中
+
+server {
+    listen 80;
+    server_name your-domain.com;
+    
+    root /path/to/iconshub/dist;
+    index index.html;
+    
+    # Gzip 压缩
+    gzip on;
+    gzip_vary on;
+    gzip_min_length 1024;
+    gzip_comp_level 6;
+    gzip_types text/plain text/css text/xml text/javascript application/javascript application/x-javascript application/json application/xml image/svg+xml;
+    
+    # 图片资源缓存 30 天
+    location ~* \.(png|jpg|jpeg|gif|svg|webp)$ {
+        expires 30d;
+        add_header Cache-Control "public, max-age=2592000, immutable";
+        access_log off;
+    }
+    
+    # CSS 和 JS 缓存 7 天
+    location ~* \.(css|js)$ {
+        expires 7d;
+        add_header Cache-Control "public, max-age=604800";
+    }
+    
+    # JSON 文件缓存 1 小时
+    location ~* \.json$ {
+        expires 1h;
+        add_header Cache-Control "public, max-age=3600";
+    }
+    
+    # HTML 不缓存
+    location ~* \.html$ {
+        expires -1;
+        add_header Cache-Control "no-cache, must-revalidate";
+    }
+    
+    # 支持 WebP 图片自动转换
+    location ~ ^/(.+)\.(png|jpe?g)$ {
+        set $webp_suffix "";
+        if ($http_accept ~* "image/webp") {
+            set $webp_suffix ".webp";
+        }
+        
+        # 尝试使用 WebP 版本
+        try_files /$1.$2$webp_suffix /$1.$2 =404;
+    }
+    
+    # SPA 路由支持
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+    
+    # 安全头
+    add_header X-Content-Type-Options "nosniff" always;
+    add_header X-Frame-Options "SAMEORIGIN" always;
+    add_header X-XSS-Protection "1; mode=block" always;
+}
+
