@@ -126,9 +126,7 @@ function getDefaultConfig(): AppConfig {
     },
     footer: {
       websiteText: "ICONS.GW124.TOP",
-      websiteUrl: "https://icons.gw124.top",
-      authorText: "Wen",
-      authorUrl: "https://github.com/GWen124"
+      websiteUrl: "https://icons.gw124.top"
     }
   };
 }
