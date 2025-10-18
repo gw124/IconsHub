@@ -20,5 +20,4 @@ copyright:
 footer:
   websiteText: "ICONS.GW124.TOP"
   websiteUrl: "https://github.com/GWen124/IconsHub"
-  authorText: "Wen"
-  authorUrl: "https://gw124.top/"
+  # 注意：Wen 链接已固定在代码中，不可通过配置修改

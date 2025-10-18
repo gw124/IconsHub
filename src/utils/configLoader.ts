@@ -21,8 +21,7 @@ export interface CopyrightConfig {
 export interface FooterConfig {
   websiteText: string;
   websiteUrl: string;
-  authorText: string;
-  authorUrl: string;
+  // 注意：authorText 和 authorUrl 已从配置中移除，固定在代码中
 }
 
 export interface AppConfig {

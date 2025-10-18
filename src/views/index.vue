@@ -132,7 +132,7 @@
 		<footer class="footer">
 			<div class="footer-divider"></div>
 			<div class="footer-line">
-				Copyright © {{ copyrightYear }} <a :href="appConfig.footer.websiteUrl" target="_blank" rel="noopener noreferrer">{{ appConfig.footer.websiteText }}</a> • Powered by <a href="https://github.com/GWen124/IconsHub" target="_blank" rel="noopener noreferrer">Wen</a>
+				Copyright © {{ copyrightYear }} <a :href="appConfig.footer.websiteUrl" target="_blank" rel="noopener noreferrer">{{ appConfig.footer.websiteText }}</a> • Powered by <a href="https://gw124.top/" target="_blank" rel="noopener noreferrer">Wen</a>
 			</div>
 		</footer>
 	
@@ -156,7 +156,7 @@ export default defineComponent({
 			site: { title: "IconsHub", description: "提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途" },
 			deployment: { branch: "Web", domain: "icons.gw124.top" },
 			copyright: { startDate: "2025-01-01", autoRange: true },
-			footer: { websiteText: "ICONS.GW124.TOP", websiteUrl: "https://github.com/GWen124/IconsHub", authorText: "Wen", authorUrl: "https://gw124.top/" }
+			footer: { websiteText: "ICONS.GW124.TOP", websiteUrl: "https://github.com/GWen124/IconsHub" }
 		});
 		
 		// 版权年份
