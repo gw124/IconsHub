@@ -126,7 +126,7 @@ function getDefaultConfig(): AppConfig {
     },
     footer: {
       websiteText: "ICONS.GW124.TOP",
-      websiteUrl: "https://icons.gw124.top"
+      websiteUrl: "https://github.com/GWen124/IconsHub"
     }
   };
 }

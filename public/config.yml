@@ -19,4 +19,5 @@ copyright:
 # 页脚配置
 footer:
   websiteText: "ICONS.GW124.TOP"
-  websiteUrl: "https://icons.gw124.top"
+  websiteUrl: "https://github.com/GWen124/IconsHub"
+  # 注意：Wen 链接已固定在代码中，不可通过配置修改
