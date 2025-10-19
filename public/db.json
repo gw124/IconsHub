@@ -1,6 +1,12 @@
 {
   "App Hub": [
     {
+      "name": "Apple",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
       "name": "Bitwarden",
       "type": "png",
       "ext": ".png",
@@ -2002,6 +2008,12 @@
       "name": "Myicon",
       "type": "png",
       "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "R Star",
+      "type": "jpeg",
+      "ext": ".jpeg",
       "course": ""
     },
     {
