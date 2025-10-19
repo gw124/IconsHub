@@ -1969,9 +1969,33 @@
   ],
   "Uncategorized": [
     {
+      "name": "Ball",
+      "type": "jpg",
+      "ext": ".jpg",
+      "course": ""
+    },
+    {
+      "name": "Ball_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Balloon",
       "type": "png",
       "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Circle",
+      "type": "jpeg",
+      "ext": ".jpeg",
+      "course": ""
+    },
+    {
+      "name": "Circle_A",
+      "type": "jpeg",
+      "ext": ".jpeg",
       "course": ""
     },
     {
