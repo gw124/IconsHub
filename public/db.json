@@ -143,6 +143,12 @@
       "type": "jpeg",
       "ext": ".jpeg",
       "course": ""
+    },
+    {
+      "name": "豌豆夹",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
     }
   ],
   "Self-Hosted Services": [
