@@ -587,6 +587,12 @@
       "type": "png",
       "ext": ".png",
       "course": ""
+    },
+    {
+      "name": "天翼云",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
     }
   ],
   "AI": [
