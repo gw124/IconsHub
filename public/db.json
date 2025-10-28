@@ -149,6 +149,12 @@
       "type": "png",
       "ext": ".png",
       "course": ""
+    },
+    {
+      "name": "闲鱼",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
     }
   ],
   "Self-Hosted Services": [
