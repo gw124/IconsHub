@@ -1669,6 +1669,12 @@
       "course": ""
     },
     {
+      "name": "Telexfer",
+      "type": "jpg",
+      "ext": ".jpg",
+      "course": ""
+    },
+    {
       "name": "Tissue_A",
       "type": "png",
       "ext": ".png",
