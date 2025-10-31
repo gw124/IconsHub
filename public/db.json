@@ -1669,9 +1669,27 @@
       "course": ""
     },
     {
-      "name": "Telexfer",
-      "type": "jpg",
-      "ext": ".jpg",
+      "name": "Telexfer_A_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telexfer_A_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telexfer_B_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Telexfer_B_B",
+      "type": "png",
+      "ext": ".png",
       "course": ""
     },
     {
