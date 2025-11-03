@@ -1699,6 +1699,12 @@
       "course": ""
     },
     {
+      "name": "Telexfer_Bot_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Tissue_A",
       "type": "png",
       "ext": ".png",
