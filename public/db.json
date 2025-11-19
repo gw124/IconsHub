@@ -1,4 +1,36 @@
 {
+  "Personal Assets": [
+    {
+      "name": "及時行樂Logo",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "及時行樂Logo_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "及時行樂Logo_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "楽_圆",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "楽_方",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    }
+  ],
   "App Hub": [
     {
       "name": "Apple",
@@ -11098,38 +11130,6 @@
       "name": "节点小宝_A",
       "type": "svg",
       "ext": ".svg",
-      "course": ""
-    }
-  ],
-  "Personal Assets": [
-    {
-      "name": "及時行樂Logo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "及時行樂Logo_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "及時行樂Logo_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "楽_圆",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "楽_方",
-      "type": "png",
-      "ext": ".png",
       "course": ""
     }
   ]
