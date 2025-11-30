@@ -683,6 +683,12 @@
       "course": ""
     },
     {
+      "name": "Grok",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "LlamaGPT",
       "type": "png",
       "ext": ".png",
