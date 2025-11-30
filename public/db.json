@@ -2191,6 +2191,12 @@
       "type": "png",
       "ext": ".png",
       "course": ""
+    },
+    {
+      "name": "亚洲",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
     }
   ],
   "HDIcons-Borderradius": [
