@@ -9,7 +9,7 @@ site:
 # GitHub Pages 部署配置
 deployment:
   branch: "Web"
-  domain: "icons.gw124.com"
+  domain: "icons.gw124.top"
 
 # 版权信息配置
 copyright:
@@ -18,5 +18,5 @@ copyright:
 
 # 页脚配置
 footer:
-  websiteText: "ICONS.GW124.COM"
+  websiteText: "ICONS.GW124.TOP"
   websiteUrl: "https://github.com/GWen124/IconsHub"
