@@ -43,50 +43,6 @@
       "course": ""
     }
   ],
-  "Uncategorized": [
-    {
-      "name": "Iptv",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Myicon",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Myicon",
-      "type": "svg",
-      "ext": ".svg",
-      "course": ""
-    },
-    {
-      "name": "SpiralBall",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Time",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "other",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "亚洲",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
   "Common": [
     {
       "name": "115",
@@ -575,341 +531,45 @@
       "course": ""
     }
   ],
-  "Self-hosting Solutions": [
+  "Uncategorized": [
     {
-      "name": "Autosymlink",
+      "name": "Iptv",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Bitwarden",
+      "name": "Myicon",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Clouddrive",
+      "name": "Myicon",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "SpiralBall",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Cloudreve",
+      "name": "Time",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "DDNS",
+      "name": "other",
       "type": "png",
       "ext": ".png",
       "course": ""
     },
     {
-      "name": "Docker-copilot_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "DockerCopilot_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Duplicati_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Duplicati_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Emby",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Frp",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Ha_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Ha_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Ha_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MoviePilot_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "MoviePilot_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nezha Monitoring",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Npm",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Nps",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Open-webui",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Plex_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Plex_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Qbittorrent",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Qinglong_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Qinglong_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Rclone_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Rclone_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Redia_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Redia_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Sunpanel",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Symedia_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Symedia_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Symedia_C",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Syncthing_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Syncthing_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telexfer_A_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telexfer_A_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telexfer_B_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telexfer_B_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telexfer_Bot",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Telexfer_Bot_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Vaultwarden",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Watchtower",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    }
-  ],
-  "VPN": [
-    {
-      "name": "3x-ui",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Clash",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "H-UI",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Mihomo",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Openvpn_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Quantumultx",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Sub Store",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Tailscale_A",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Tailscale_B",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "V2rayA",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Wireguard",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Yacd-meta",
-      "type": "png",
-      "ext": ".png",
-      "course": ""
-    },
-    {
-      "name": "Zerotier",
+      "name": "亚洲",
       "type": "png",
       "ext": ".png",
       "course": ""
