@@ -156,7 +156,7 @@ export default defineComponent({
 			site: { title: "IconsHub", description: "提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途" },
 			deployment: { branch: "Web", domain: "icons.gw124.top" },
 			copyright: { startDate: "2025-01-01", autoRange: true },
-			footer: { websiteText: "ICONS.GW124.TOP", websiteUrl: "https://github.com/GWen124/IconsHub" }
+			footer: { websiteText: "ICONS.GW124.TOP", websiteUrl: "https://github.com/gw124/IconsHub" }
 		});
 		
 		// 版权年份
@@ -342,9 +342,9 @@ export default defineComponent({
 		async function copyIconUrl(url: string) {
 			let currenturl = window.location.href;
 			let iconurl = data.publicPath + "icon/" + url;
-			// let iconurlCdn = "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@main/dist/" + "icon/" + url; // CDN Url
-			let iconurlCdn = "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/" + "icon/" + url; // CDN Url
-			// let iconurlCdn = "https://cdn.gw124.top/https://raw.githubusercontent.com/GWen124/MyIcons/refs/heads/Web/icon/" + url; // 套 CF
+			// let iconurlCdn = "https://cdn.jsdelivr.net/gh/gw124/MyIcons@main/dist/" + "icon/" + url; // CDN Url
+			let iconurlCdn = "https://cdn.jsdelivr.net/gh/gw124/MyIcons@Web/" + "icon/" + url; // CDN Url
+			// let iconurlCdn = "https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/MyIcons/refs/heads/Web/icon/" + url; // 套 CF
 				
 				// 备用 CDN Url
 			// fastly.jsdelivr.net
@@ -352,8 +352,8 @@ export default defineComponent({
 			// testingcf.jsdelivr.net
 			
 			// 自建 CF 加速转发
-			// https://cdn.gw124.top/https://raw.githubusercontent.com/GWen124/MyIcons/refs/heads/Web/icon/ + url
-			// https://cdn.gw124.top/https://raw.githubusercontent.com/GWen124/MyIcons/refs/heads/Web/icon/CMS/Halo_E.png
+			// https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/MyIcons/refs/heads/Web/icon/ + url
+			// https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/MyIcons/refs/heads/Web/icon/CMS/Halo_E.png
 			let fullurl = currenturl.substr(0, currenturl.length - 2) + iconurl; // 本地 Url
 			
 			console.log('图片文件全称(url): ', url);
