@@ -1,19 +1,7 @@
 {
   "Personal Assets": "Personal Assets - 个人素材",
-  "App Hub": "App Hub - 应用中心",
-  "Self-Hosted Services": "Self-Hosted Services - 自建服务",
-  "Social & Entertainment": "Social & Entertainment - 社交娱乐",
-  "Cloud Services": "Cloud Services - 云服务",
-  "AI": "AI Tools - AI工具",
-  "Synology NAS": "Synology NAS - 群晖 NAS 管理套件",
-  "Router & VPN": "Router & VPN - 智能路由与VPN网关",
-  "Internet of Things (IoT)": "Internet of Things (IoT) - 物联网（IoT）管理平台",
-  "PT": "PT Sites - 私有PT站（Private Tracker）",
-  "Media Streaming": "Media Streaming - 流媒体服务器",
-  "CMS": "CMS - 内容管理系统（CMS）",
-  "Self-hosting Solutions & OS": "Self-hosting Solutions & OS - 自托管解决方案与操作系统",
-  "Uncategorized": "Uncategorized - 未分类项目",
-  "HDIcons-Borderradius": "HD Icons - 方形图标",
-  "HDIcons-Circle": "HD Icons - 圆形图标",
-  "HDIcons-SVG": "HD Icons - SVG图标"
+  "Common": "Common - 常用",
+  "Self-Hosting Solutions": "Self-Hosting Solutions - 自托管解决方案",
+  "Virtual Private Network": "Virtual Private Network - 虚拟专用网络",
+  "Uncategorized": "Uncategorized - 未分类项目"
 }
