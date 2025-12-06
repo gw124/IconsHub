@@ -342,9 +342,9 @@ export default defineComponent({
 		async function copyIconUrl(url: string) {
 			let currenturl = window.location.href;
 			let iconurl = data.publicPath + "icon/" + url;
-			// let iconurlCdn = "https://cdn.jsdelivr.net/gh/gw124/MyIcons@main/dist/" + "icon/" + url; // CDN Url
-			let iconurlCdn = "https://cdn.jsdelivr.net/gh/gw124/MyIcons@Web/" + "icon/" + url; // CDN Url
-			// let iconurlCdn = "https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/MyIcons/refs/heads/Web/icon/" + url; // 套 CF
+			// let iconurlCdn = "https://cdn.jsdelivr.net/gh/gw124/IconsHub@main/dist/" + "icon/" + url; // CDN Url
+			let iconurlCdn = "https://cdn.jsdelivr.net/gh/gw124/IconsHub@Web/" + "icon/" + url; // CDN Url
+			// let iconurlCdn = "https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/IconsHub/refs/heads/Web/icon/" + url; // 套 CF
 				
 				// 备用 CDN Url
 			// fastly.jsdelivr.net
@@ -352,8 +352,8 @@ export default defineComponent({
 			// testingcf.jsdelivr.net
 			
 			// 自建 CF 加速转发
-			// https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/MyIcons/refs/heads/Web/icon/ + url
-			// https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/MyIcons/refs/heads/Web/icon/CMS/Halo_E.png
+			// https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/IconsHub/refs/heads/Web/icon/ + url
+			// https://cdn.gw124.top/https://raw.githubusercontent.com/gw124/IconsHub/refs/heads/Web/icon/CMS/Halo_E.png
 			let fullurl = currenturl.substr(0, currenturl.length - 2) + iconurl; // 本地 Url
 			
 			console.log('图片文件全称(url): ', url);
