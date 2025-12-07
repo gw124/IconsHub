@@ -253,6 +253,12 @@
       "course": ""
     },
     {
+      "name": "Macos",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Netflix_A",
       "type": "png",
       "ext": ".png",
