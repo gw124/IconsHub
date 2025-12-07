@@ -591,6 +591,12 @@
       "course": ""
     },
     {
+      "name": "Navidrome",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Nezha Monitoring",
       "type": "png",
       "ext": ".png",
@@ -885,6 +891,18 @@
       "course": ""
     },
     {
+      "name": "Linkace_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Linkace_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Myicon",
       "type": "png",
       "ext": ".png",
@@ -903,7 +921,19 @@
       "course": ""
     },
     {
+      "name": "Terminal",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Time",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Ugos-pro",
       "type": "png",
       "ext": ".png",
       "course": ""
