@@ -921,6 +921,12 @@
       "course": ""
     },
     {
+      "name": "QR_Code",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "SpiralBall",
       "type": "png",
       "ext": ".png",
