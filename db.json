@@ -839,6 +839,12 @@
       "course": ""
     },
     {
+      "name": "Shadowrocket",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Sub Store",
       "type": "png",
       "ext": ".png",
@@ -994,6 +1000,12 @@
     },
     {
       "name": "Ugos-pro",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Zimuku",
       "type": "png",
       "ext": ".png",
       "course": ""
