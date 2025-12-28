@@ -803,6 +803,12 @@
       "course": ""
     },
     {
+      "name": "Surge",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Tailscale_A",
       "type": "png",
       "ext": ".png",
