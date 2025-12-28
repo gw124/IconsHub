@@ -519,6 +519,12 @@
   ],
   "Self-Hosted Services": [
     {
+      "name": "AdGuard",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Autosymlink",
       "type": "png",
       "ext": ".png",
@@ -603,6 +609,12 @@
       "course": ""
     },
     {
+      "name": "Komari",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "MoviePilot_A",
       "type": "png",
       "ext": ".png",
@@ -640,6 +652,12 @@
     },
     {
       "name": "Open-webui",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Openlist",
       "type": "png",
       "ext": ".png",
       "course": ""
