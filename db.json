@@ -43,6 +43,12 @@
       "course": ""
     },
     {
+      "name": "BaiduDrive",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "Baidu_A",
       "type": "png",
       "ext": ".png",
@@ -128,6 +134,12 @@
     },
     {
       "name": "Docker_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Doubao",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -235,7 +247,19 @@
       "course": ""
     },
     {
+      "name": "GreasyFork",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "Ikuai",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Itellyou",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -466,6 +490,12 @@
       "name": "Youtube_C",
       "type": "svg",
       "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "Zhihu",
+      "type": "png",
+      "ext": ".png",
       "course": ""
     },
     {
