@@ -939,6 +939,12 @@
   ],
   "Uncategorized": [
     {
+      "name": "Fingerprint",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Iptv",
       "type": "png",
       "ext": ".png",
