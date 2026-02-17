@@ -37,6 +37,12 @@
       "course": ""
     },
     {
+      "name": "Apple_Music",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Audiences",
       "type": "png",
       "ext": ".png",
@@ -163,6 +169,12 @@
       "course": ""
     },
     {
+      "name": "Facebook",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "FanQieNovel",
       "type": "png",
       "ext": ".png",
@@ -260,6 +272,12 @@
     },
     {
       "name": "Ikuai",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Instagram",
       "type": "png",
       "ext": ".png",
       "course": ""
@@ -428,6 +446,12 @@
     },
     {
       "name": "Translate",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Tumblr",
       "type": "png",
       "ext": ".png",
       "course": ""
