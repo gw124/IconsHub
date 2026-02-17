@@ -97,6 +97,12 @@
       "course": ""
     },
     {
+      "name": "ClawCloud_Run",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Cloudflare_A",
       "type": "png",
       "ext": ".png",
@@ -397,6 +403,12 @@
       "course": ""
     },
     {
+      "name": "Tencent_Drive",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Tencent_cloud",
       "type": "png",
       "ext": ".png",
@@ -506,6 +518,12 @@
     },
     {
       "name": "Zhihu",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "iCloud",
       "type": "png",
       "ext": ".png",
       "course": ""
