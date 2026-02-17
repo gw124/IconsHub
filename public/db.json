@@ -283,6 +283,18 @@
       "course": ""
     },
     {
+      "name": "Mercury_A",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
+      "name": "Mercury_B",
+      "type": "png",
+      "ext": ".png",
+      "course": ""
+    },
+    {
       "name": "Netflix_A",
       "type": "png",
       "ext": ".png",
